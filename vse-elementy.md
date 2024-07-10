@@ -89,6 +89,42 @@ title: Все элементы
 | markdown |   | тело      |
 | таблица  |   | у таблицы |
 
+{% table %}
+
+---
+
+*  {% isHeader=true %}
+
+   Сложная
+
+*  {% isHeader=true %}
+
+   
+
+*  {% isHeader=true %}
+
+   заголовок
+
+---
+
+*  {% isHeader=true %}
+
+   markdown
+
+*  {% colspan=2 rowspan=2 %}
+
+   тело
+
+   у таблицы
+
+---
+
+*  {% isHeader=true %}
+
+   таблица
+
+{% /table %}
+
 #### Note
 
 :::note Заголовок
