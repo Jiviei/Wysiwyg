@@ -67,6 +67,8 @@ title: Все элементы
 
 #### BlockMd
 
+$$ A $$
+
 [color:red]
 
 Цветной
@@ -199,4 +201,6 @@ title: Все элементы
 
 #### InlineMd
 
-$a$
+$a$ [alfa]
+
+
