@@ -1,0 +1,1618 @@
+chunk-EPFY5AXO.js:29018 Download the React DevTools for a better development experience: https://reactjs.org/link/react-devtools
+react-dropdown-select.js:525  You are loading @emotion/react when it is already loaded. Running multiple instances may cause problems. This can happen if multiple versions are used, or if multiple builds of the same version are used.
+../../node_modules/react-dropdown-select/node_modules/@emotion/react/dist/emotion-react.browser.esm.js @ react-dropdown-select.js:525
+__init @ chunk-JO7GZ67Z.js?v=6d393fec:24
+../../node_modules/react-dropdown-select/node_modules/@emotion/styled/base/dist/emotion-styled-base.browser.esm.js @ react-dropdown-select.js:547
+__init @ chunk-JO7GZ67Z.js?v=6d393fec:24
+../../node_modules/react-dropdown-select/lib/index.js @ react-dropdown-select.js:1691
+__require2 @ chunk-JO7GZ67Z.js?v=6d393fec:27
+(анонимный) @ react-dropdown-select.js:1905
+new-article:1  [Deprecation]-ms-high-contrast-adjust is in the process of being deprecated. Please see https://blogs.windows.com/msedgedev/2024/04/29/deprecating-ms-high-contrast/ for tips on updating to the new Forced Colors Mode standard.
+[НОВОЕ] Объяснение ошибок консоли с помощью Copilot в Edge: щелкните
+         
+         чтобы объяснить ошибку.
+        Подробнее
+        
+          
+          
+          Больше не показывать
+        
+gramax-wasm.js:9 INFO  [gramax_wasm] opfs backend created
+gramax-wasm.js:9 INFO  [gramax_wasm] opfs was mounted on /mnt
+new-article:1  [Deprecation]-ms-high-contrast-adjust is in the process of being deprecated. Please see https://blogs.windows.com/msedgedev/2024/04/29/deprecating-ms-high-contrast/ for tips on updating to the new Forced Colors Mode standard.
+getWorkspace.ts:10 Empty workspace.yaml, so disabling workspace feature
+wasm.worker.ts:20  git-command has_remotes {
+    "repoPath": "/mnt/docs/test-formulas"
+} returned an error
+callInternal @ wasm.worker.ts:20
+await in callInternal (асинхронно)
+(анонимный) @ wasm.worker.ts:19
+wasm.worker.ts:21  {"message":"could not find repository at '/mnt/docs/test-formulas'","class":6,"code":1}
+callInternal @ wasm.worker.ts:21
+await in callInternal (асинхронно)
+(анонимный) @ wasm.worker.ts:19
+LibGit2Error.ts:11 undefined
+wasm.worker.ts:20  git-command has_remotes {
+    "repoPath": "/mnt/docs/new-catalog-3"
+} returned an error
+callInternal @ wasm.worker.ts:20
+await in callInternal (асинхронно)
+(анонимный) @ wasm.worker.ts:19
+wasm.worker.ts:21  {"message":"could not find repository at '/mnt/docs/new-catalog-3'","class":6,"code":1}
+callInternal @ wasm.worker.ts:21
+await in callInternal (асинхронно)
+(анонимный) @ wasm.worker.ts:19
+LibGit2Error.ts:11 undefined
+wasm.worker.ts:20  git-command has_remotes {
+    "repoPath": "/mnt/docs/new-catalog-2"
+} returned an error
+callInternal @ wasm.worker.ts:20
+await in callInternal (асинхронно)
+(анонимный) @ wasm.worker.ts:19
+wasm.worker.ts:21  {"message":"could not find repository at '/mnt/docs/new-catalog-2'","class":6,"code":1}
+callInternal @ wasm.worker.ts:21
+await in callInternal (асинхронно)
+(анонимный) @ wasm.worker.ts:19
+LibGit2Error.ts:11 undefined
+wasm.worker.ts:20  git-command has_remotes {
+    "repoPath": "/mnt/docs/new-catalog"
+} returned an error
+callInternal @ wasm.worker.ts:20
+await in callInternal (асинхронно)
+(анонимный) @ wasm.worker.ts:19
+wasm.worker.ts:21  {"message":"could not find repository at '/mnt/docs/new-catalog'","class":6,"code":1}
+callInternal @ wasm.worker.ts:21
+await in callInternal (асинхронно)
+(анонимный) @ wasm.worker.ts:19
+LibGit2Error.ts:11 undefined
+wasm.worker.ts:20  git-command has_remotes {
+    "repoPath": "/mnt/docs/new-catalog-2"
+} returned an error
+callInternal @ wasm.worker.ts:20
+await in callInternal (асинхронно)
+(анонимный) @ wasm.worker.ts:19
+wasm.worker.ts:21  {"message":"could not find repository at '/mnt/docs/new-catalog-2'","class":6,"code":1}
+callInternal @ wasm.worker.ts:21
+await in callInternal (асинхронно)
+(анонимный) @ wasm.worker.ts:19
+LibGit2Error.ts:11 undefined
+ConsoleLogger.ts:22 Article: new-catalog-2/new-article
+Table.tsx?t=1719238202479:57 {$$typeof: Symbol(react.element), type: Symbol(react.fragment), key: null, ref: null, props: {…}, …} false
+Colgroup.tsx:29 {$$typeof: Symbol(react.element), type: Symbol(react.fragment), key: null, ref: null, props: {…}, …}
+react-dom_server.js:3442  Warning: Invalid DOM property `colspan`. Did you mean `colSpan`?
+    at th
+    at tr
+    at tbody
+    at table
+    at Table (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/markdown/elements/table/render/component/Table.tsx?t=1719238202479:54:18)
+printWarning @ react-dom_server.js:3442
+error @ react-dom_server.js:3426
+validateProperty$1 @ react-dom_server.js:4752
+warnUnknownProperties @ react-dom_server.js:4789
+validateProperties$2 @ react-dom_server.js:4808
+pushStartInstance @ react-dom_server.js:5740
+renderHostElement @ react-dom_server.js:7786
+renderElement @ react-dom_server.js:8032
+renderNodeDestructiveImpl @ react-dom_server.js:8132
+renderNodeDestructive @ react-dom_server.js:8112
+renderNode @ react-dom_server.js:8244
+renderChildrenArray @ react-dom_server.js:8205
+renderNodeDestructiveImpl @ react-dom_server.js:8157
+renderNodeDestructive @ react-dom_server.js:8112
+renderNode @ react-dom_server.js:8244
+renderHostElement @ react-dom_server.js:7790
+renderElement @ react-dom_server.js:8032
+renderNodeDestructiveImpl @ react-dom_server.js:8132
+renderNodeDestructive @ react-dom_server.js:8112
+renderNode @ react-dom_server.js:8244
+renderChildrenArray @ react-dom_server.js:8205
+renderNodeDestructiveImpl @ react-dom_server.js:8157
+renderNodeDestructive @ react-dom_server.js:8112
+renderNode @ react-dom_server.js:8244
+renderHostElement @ react-dom_server.js:7790
+renderElement @ react-dom_server.js:8032
+renderNodeDestructiveImpl @ react-dom_server.js:8132
+renderNodeDestructive @ react-dom_server.js:8112
+renderElement @ react-dom_server.js:8041
+renderNodeDestructiveImpl @ react-dom_server.js:8132
+renderNodeDestructive @ react-dom_server.js:8112
+renderNode @ react-dom_server.js:8244
+renderChildrenArray @ react-dom_server.js:8205
+renderNodeDestructiveImpl @ react-dom_server.js:8157
+renderNodeDestructive @ react-dom_server.js:8112
+renderNode @ react-dom_server.js:8244
+renderHostElement @ react-dom_server.js:7790
+renderElement @ react-dom_server.js:8032
+renderNodeDestructiveImpl @ react-dom_server.js:8132
+renderNodeDestructive @ react-dom_server.js:8112
+renderIndeterminateComponent @ react-dom_server.js:7900
+renderElement @ react-dom_server.js:8027
+renderNodeDestructiveImpl @ react-dom_server.js:8132
+renderNodeDestructive @ react-dom_server.js:8112
+retryTask @ react-dom_server.js:8421
+performWork @ react-dom_server.js:8461
+(анонимный) @ react-dom_server.js:8668
+scheduleWork @ react-dom_server.js:3446
+startWork @ react-dom_server.js:8667
+renderToStringImpl @ react-dom_server.js:8729
+renderToString @ react-dom_server.js:8741
+render @ html.ts:41
+(анонимный) @ html.ts:30
+render @ html.ts:30
+render @ html.ts:50
+parseToHtml @ Parser.ts:77
+await in parseToHtml (асинхронно)
+parse @ Parser.ts:58
+await in parse (асинхронно)
+parseContent @ parseContent.ts:42
+getArticlePageData @ SitePresenter.ts:124
+getArticlePageDataByPath @ SitePresenter.ts:143
+await in getArticlePageDataByPath (асинхронно)
+do @ getArticlePageData.ts:23
+await in do (асинхронно)
+do @ Command.ts:39
+getArticlePageData @ getPageData.ts:18
+do @ getPageData.ts:32
+await in do (асинхронно)
+do @ Command.ts:39
+getData @ AppContext.tsx:25
+await in getData (асинхронно)
+(анонимный) @ AppContext.tsx:42
+(анонимный) @ AppContext.tsx:55
+commitHookEffectListMount @ chunk-EPFY5AXO.js:24374
+commitPassiveMountOnFiber @ chunk-EPFY5AXO.js:25622
+commitPassiveMountEffects_complete @ chunk-EPFY5AXO.js:25595
+commitPassiveMountEffects_begin @ chunk-EPFY5AXO.js:25585
+commitPassiveMountEffects @ chunk-EPFY5AXO.js:25575
+flushPassiveEffectsImpl @ chunk-EPFY5AXO.js:26956
+flushPassiveEffects @ chunk-EPFY5AXO.js:26913
+(анонимный) @ chunk-EPFY5AXO.js:26794
+workLoop @ chunk-EPFY5AXO.js:486
+flushWork @ chunk-EPFY5AXO.js:465
+performWorkUntilDeadline @ chunk-EPFY5AXO.js:673
+Table.tsx?t=1719238202479:57 {$$typeof: Symbol(react.element), type: Symbol(react.fragment), key: null, ref: null, props: {…}, …} false
+Colgroup.tsx:29 {$$typeof: Symbol(react.element), type: Symbol(react.fragment), key: null, ref: null, props: {…}, …}
+chunk-F2B2ZB56.js:261  tippy.js`aria-describedby` is not a valid prop. You may have spelled it incorrectly, or if it's a plugin, forgot to pass it in an array as props.plugins. All props: https://atomiks.github.io/tippyjs/v6/all-props/Plugins: https://atomiks.github.io/tippyjs/v6/plugins/👷‍ This is a development-only message. It will be removed in production.
+warnWhen @ chunk-F2B2ZB56.js:261
+(анонимный) @ chunk-F2B2ZB56.js:414
+validateProps @ chunk-F2B2ZB56.js:406
+tippy @ chunk-F2B2ZB56.js:1253
+(анонимный) @ @tippyjs_react.js:222
+commitHookEffectListMount @ chunk-EPFY5AXO.js:24374
+commitLayoutEffectOnFiber @ chunk-EPFY5AXO.js:24462
+commitLayoutMountEffects_complete @ chunk-EPFY5AXO.js:25446
+commitLayoutEffects_begin @ chunk-EPFY5AXO.js:25435
+commitLayoutEffects @ chunk-EPFY5AXO.js:25386
+commitRootImpl @ chunk-EPFY5AXO.js:26819
+commitRoot @ chunk-EPFY5AXO.js:26743
+finishConcurrentRender @ chunk-EPFY5AXO.js:26271
+performConcurrentWorkOnRoot @ chunk-EPFY5AXO.js:26184
+workLoop @ chunk-EPFY5AXO.js:486
+flushWork @ chunk-EPFY5AXO.js:465
+performWorkUntilDeadline @ chunk-EPFY5AXO.js:673
+chunk-F2B2ZB56.js:261  tippy.js`onClick` is not a valid prop. You may have spelled it incorrectly, or if it's a plugin, forgot to pass it in an array as props.plugins. All props: https://atomiks.github.io/tippyjs/v6/all-props/Plugins: https://atomiks.github.io/tippyjs/v6/plugins/👷‍ This is a development-only message. It will be removed in production.
+warnWhen @ chunk-F2B2ZB56.js:261
+(анонимный) @ chunk-F2B2ZB56.js:414
+validateProps @ chunk-F2B2ZB56.js:406
+tippy @ chunk-F2B2ZB56.js:1253
+(анонимный) @ @tippyjs_react.js:222
+commitHookEffectListMount @ chunk-EPFY5AXO.js:24374
+commitLayoutEffectOnFiber @ chunk-EPFY5AXO.js:24462
+commitLayoutMountEffects_complete @ chunk-EPFY5AXO.js:25446
+commitLayoutEffects_begin @ chunk-EPFY5AXO.js:25435
+commitLayoutEffects @ chunk-EPFY5AXO.js:25386
+commitRootImpl @ chunk-EPFY5AXO.js:26819
+commitRoot @ chunk-EPFY5AXO.js:26743
+finishConcurrentRender @ chunk-EPFY5AXO.js:26271
+performConcurrentWorkOnRoot @ chunk-EPFY5AXO.js:26184
+workLoop @ chunk-EPFY5AXO.js:486
+flushWork @ chunk-EPFY5AXO.js:465
+performWorkUntilDeadline @ chunk-EPFY5AXO.js:673
+Table.tsx?t=1719238202479:57 {$$typeof: Symbol(react.element), type: Symbol(react.fragment), key: null, ref: null, props: {…}, …} false
+Colgroup.tsx:29 {$$typeof: Symbol(react.element), type: Symbol(react.fragment), key: null, ref: null, props: {…}, …}
+Table.tsx?t=1719238202479:57 {$$typeof: Symbol(react.element), type: 'tbody', key: null, ref: null, props: {…}, …} false
+Colgroup.tsx:29 {$$typeof: Symbol(react.element), type: 'tbody', key: null, ref: null, props: {…}, …}
+chunk-EPFY5AXO.js:7959  Warning: Invalid DOM property `colspan`. Did you mean `colSpan`?
+    at th
+    at tr
+    at tbody
+    at table
+    at Table (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/markdown/elements/table/render/component/Table.tsx?t=1719238202479:54:18)
+    at article
+    at ErrorHandler (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/errorHandlers/client/components/ErrorHandler.tsx:17:5)
+    at div
+    at ArticleRenderer (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Article/ArticleRenderer.tsx?t=1719238468939:34:11)
+    at div
+    at ArticleUpdater (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Article/ArticleUpdater/ArticleUpdater.tsx?t=1719238468939:36:11)
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at Article (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Article/Article.tsx?t=1719238468939:43:20)
+    at div
+    at ArticlePage (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ArticlePage/ArticlePage.tsx?t=1719238468939:42:24)
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at ArticleViewContainer (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/views/articleView/ArticleViewContainer.tsx?t=1719238468939:27:42)
+    at div
+    at div
+    at div
+    at ArticleLayout (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/ArticleLayout/ArticleLayout.tsx:31:40)
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at ArticleComponent (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/ArticleLayout/ArticleComponent.tsx:35:11)
+    at div
+    at https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/CatalogLayout.tsx:13:6
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/LeftNavigationIsOpen.tsx:20:21)
+    at CatalogComponent (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/CatalogComponent.tsx?t=1719238468939:36:29)
+    at Router (https://localhost:5173/.vite-cache/deps/wouter.js?v=6d393fec:93:3)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/errorHandlers/client/ErrorConfirmService.tsx?t=1719238468939:24:21)
+    at ErrorBoundary (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/errorHandlers/client/components/ErrorBoundary.tsx?t=1719238468939:28:26)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/CommentCounter.tsx?t=1719238468939:18:21)
+    at OnUpdateAppFuncs (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ContextProviders.tsx?t=1719238468939:245:29)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsFirstLoadService.tsx:14:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/views/articleView/ArticleViewService.tsx?t=1719238468939:24:5)
+    at ViewContextProvider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ContextProviders.tsx?t=1719238468939:254:32)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ArticleTooltip.tsx?t=1719238468939:19:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsEdit.tsx?t=1719238468939:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/markdown/elements/tabs/components/CurrentTabsTagService.tsx:16:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/CatalogProps.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ArticleProps.tsx:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ArticleRef.tsx:14:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsMenuBarOpenService.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/markdown/elements/copyArticles/onLoadResourceService.tsx?t=1719238468939:18:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ModalToOpenService/ModalToOpenService.tsx?t=1719238468939:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/SidebarsIsPin.tsx:19:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ScrollWebkit.tsx:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsOpenMpdal.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/SyncIconService.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/SearchQuery.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsMac.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/Theme/components/ThemeService.tsx?t=1719238468939:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/RefreshPageContext.tsx:16:5)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/PageDataContext.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ApiUrlCreator.tsx:14:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsOfflineService.tsx:15:21)
+    at ContextProviders (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ContextProviders.tsx?t=1719238468939:55:3)
+    at AppContext (https://localhost:5173/src/AppContext.tsx?t=1719238468939:49:23)
+    at App (https://localhost:5173/src/App.tsx?t=1719238468939:34:27)
+printWarning @ chunk-EPFY5AXO.js:7959
+error @ chunk-EPFY5AXO.js:7943
+validateProperty$1 @ chunk-EPFY5AXO.js:10860
+warnUnknownProperties @ chunk-EPFY5AXO.js:10897
+validateProperties$2 @ chunk-EPFY5AXO.js:10916
+validatePropertiesInDevelopment @ chunk-EPFY5AXO.js:14787
+setInitialProperties @ chunk-EPFY5AXO.js:14978
+finalizeInitialChildren @ chunk-EPFY5AXO.js:15794
+completeWork @ chunk-EPFY5AXO.js:23752
+completeUnitOfWork @ chunk-EPFY5AXO.js:26690
+performUnitOfWork @ chunk-EPFY5AXO.js:26672
+workLoopSync @ chunk-EPFY5AXO.js:26603
+renderRootSync @ chunk-EPFY5AXO.js:26582
+performConcurrentWorkOnRoot @ chunk-EPFY5AXO.js:26144
+workLoop @ chunk-EPFY5AXO.js:486
+flushWork @ chunk-EPFY5AXO.js:465
+performWorkUntilDeadline @ chunk-EPFY5AXO.js:673
+Table.tsx?t=1719238202479:57 (2) [{…}, {…}] false
+Colgroup.tsx:29 (2) [{…}, {…}]
+Table.tsx?t=1719238202479:57 {$$typeof: Symbol(react.element), type: 'tbody', key: null, ref: null, props: {…}, …} false
+Colgroup.tsx:29 {$$typeof: Symbol(react.element), type: 'tbody', key: null, ref: null, props: {…}, …}
+Table.tsx?t=1719238202479:57 (2) [{…}, {…}] false
+Colgroup.tsx:29 (2) [{…}, {…}]0: $$typeof: Symbol(react.element)key: nullprops: {children: {…}}ref: nulltype: "thead"_owner: FiberNode {tag: 0, key: null, stateNode: null, elementType: ƒ, type: ƒ, …}_store: {validated: true}_self: null_source: null[[Prototype]]: Object1: {$$typeof: Symbol(react.element), type: 'tbody', key: null, ref: null, props: {…}, …}$$typeof: Symbol(react.element)key: nullprops: children: Array(2)0: {$$typeof: Symbol(react.element), type: 'tr', key: null, ref: null, props: {…}, …}1: {$$typeof: Symbol(react.element), type: 'tr', key: null, ref: null, props: {…}, …}length: 2[[Prototype]]: Array(0)[[Prototype]]: Objectref: nulltype: "tbody"_owner: FiberNode {tag: 0, key: null, stateNode: null, elementType: ƒ, type: ƒ, …}_store: {validated: true}_self: null_source: null[[Prototype]]: Objectlength: 2[[Prototype]]: Array(0)
+ConsoleLogger.ts:18 Add "helloWorld" plugin
+ConsoleLogger.ts:18 Add "search" plugin
+fb38253f-fb8d-47f4-a4e9-17ecc28ff780:139 loaded
+ConsoleLogger.ts:18 All plugins are loaded
+Table.tsx?t=1719238698615:57  Uncaught TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'HTMLDivElement'
+    |     property '__reactFiber$lrw1lil94nn' -> object with constructor 'FiberNode'
+    --- property 'stateNode' closes the circle
+    at JSON.stringify (<anonymous>)
+    at Table (Table.tsx?t=1719238698615:57:31)
+    at renderWithHooks (chunk-EPFY5AXO.js:19006:26)
+    at updateFunctionComponent (chunk-EPFY5AXO.js:22040:28)
+    at beginWork (chunk-EPFY5AXO.js:23382:22)
+    at HTMLUnknownElement.callCallback2 (chunk-EPFY5AXO.js:11112:22)
+    at Object.invokeGuardedCallbackDev (chunk-EPFY5AXO.js:11137:24)
+    at invokeGuardedCallback (chunk-EPFY5AXO.js:11171:39)
+    at beginWork$1 (chunk-EPFY5AXO.js:27231:15)
+    at performUnitOfWork (chunk-EPFY5AXO.js:26664:20)
+Table @ Table.tsx?t=1719238698615:57
+renderWithHooks @ chunk-EPFY5AXO.js:19006
+updateFunctionComponent @ chunk-EPFY5AXO.js:22040
+beginWork @ chunk-EPFY5AXO.js:23382
+callCallback2 @ chunk-EPFY5AXO.js:11112
+invokeGuardedCallbackDev @ chunk-EPFY5AXO.js:11137
+invokeGuardedCallback @ chunk-EPFY5AXO.js:11171
+beginWork$1 @ chunk-EPFY5AXO.js:27231
+performUnitOfWork @ chunk-EPFY5AXO.js:26664
+workLoopSync @ chunk-EPFY5AXO.js:26603
+renderRootSync @ chunk-EPFY5AXO.js:26582
+performSyncWorkOnRoot @ chunk-EPFY5AXO.js:26340
+flushSyncCallbacks @ chunk-EPFY5AXO.js:16573
+flushSync @ chunk-EPFY5AXO.js:26425
+scheduleRefresh @ chunk-EPFY5AXO.js:27470
+(анонимный) @ @react-refresh:267
+performReactRefresh @ @react-refresh:256
+setTimeout (асинхронно)
+(анонимный) @ @react-refresh:666
+validateRefreshBoundaryAndEnqueueUpdate @ @react-refresh:707
+(анонимный) @ Table.tsx?t=1719238202479:97
+(анонимный) @ hmr.ts:77
+(анонимный) @ hmr.ts:306
+(анонимный) @ hmr.ts:272
+queueUpdate @ hmr.ts:272
+await in queueUpdate (асинхронно)
+(анонимный) @ client.ts:199
+handleMessage @ client.ts:197
+(анонимный) @ client.ts:91
+Показать еще кадров: 7
+Меньше
+Table.tsx?t=1719238698615:57  Uncaught TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'HTMLDivElement'
+    |     property '__reactFiber$lrw1lil94nn' -> object with constructor 'FiberNode'
+    --- property 'stateNode' closes the circle
+    at JSON.stringify (<anonymous>)
+    at Table (Table.tsx?t=1719238698615:57:31)
+    at renderWithHooks (chunk-EPFY5AXO.js:19006:26)
+    at updateFunctionComponent (chunk-EPFY5AXO.js:22040:28)
+    at beginWork (chunk-EPFY5AXO.js:23382:22)
+    at HTMLUnknownElement.callCallback2 (chunk-EPFY5AXO.js:11112:22)
+    at Object.invokeGuardedCallbackDev (chunk-EPFY5AXO.js:11137:24)
+    at invokeGuardedCallback (chunk-EPFY5AXO.js:11171:39)
+    at beginWork$1 (chunk-EPFY5AXO.js:27231:15)
+    at performUnitOfWork (chunk-EPFY5AXO.js:26664:20)
+Table @ Table.tsx?t=1719238698615:57
+renderWithHooks @ chunk-EPFY5AXO.js:19006
+updateFunctionComponent @ chunk-EPFY5AXO.js:22040
+beginWork @ chunk-EPFY5AXO.js:23382
+callCallback2 @ chunk-EPFY5AXO.js:11112
+invokeGuardedCallbackDev @ chunk-EPFY5AXO.js:11137
+invokeGuardedCallback @ chunk-EPFY5AXO.js:11171
+beginWork$1 @ chunk-EPFY5AXO.js:27231
+performUnitOfWork @ chunk-EPFY5AXO.js:26664
+workLoopSync @ chunk-EPFY5AXO.js:26603
+renderRootSync @ chunk-EPFY5AXO.js:26582
+performSyncWorkOnRoot @ chunk-EPFY5AXO.js:26340
+flushSyncCallbacks @ chunk-EPFY5AXO.js:16573
+flushSync @ chunk-EPFY5AXO.js:26425
+scheduleRefresh @ chunk-EPFY5AXO.js:27470
+(анонимный) @ @react-refresh:267
+performReactRefresh @ @react-refresh:256
+setTimeout (асинхронно)
+(анонимный) @ @react-refresh:666
+validateRefreshBoundaryAndEnqueueUpdate @ @react-refresh:707
+(анонимный) @ Table.tsx?t=1719238202479:97
+(анонимный) @ hmr.ts:77
+(анонимный) @ hmr.ts:306
+(анонимный) @ hmr.ts:272
+queueUpdate @ hmr.ts:272
+await in queueUpdate (асинхронно)
+(анонимный) @ client.ts:199
+handleMessage @ client.ts:197
+(анонимный) @ client.ts:91
+Показать еще кадров: 7
+Меньше
+Table.tsx?t=1719238698615:57  Uncaught TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'HTMLDivElement'
+    |     property '__reactFiber$lrw1lil94nn' -> object with constructor 'FiberNode'
+    --- property 'stateNode' closes the circle
+    at JSON.stringify (<anonymous>)
+    at Table (Table.tsx?t=1719238698615:57:31)
+    at renderWithHooks (chunk-EPFY5AXO.js:19006:26)
+    at updateFunctionComponent (chunk-EPFY5AXO.js:22040:28)
+    at beginWork (chunk-EPFY5AXO.js:23382:22)
+    at HTMLUnknownElement.callCallback2 (chunk-EPFY5AXO.js:11112:22)
+    at Object.invokeGuardedCallbackDev (chunk-EPFY5AXO.js:11137:24)
+    at invokeGuardedCallback (chunk-EPFY5AXO.js:11171:39)
+    at beginWork$1 (chunk-EPFY5AXO.js:27231:15)
+    at performUnitOfWork (chunk-EPFY5AXO.js:26664:20)
+Table @ Table.tsx?t=1719238698615:57
+renderWithHooks @ chunk-EPFY5AXO.js:19006
+updateFunctionComponent @ chunk-EPFY5AXO.js:22040
+beginWork @ chunk-EPFY5AXO.js:23382
+callCallback2 @ chunk-EPFY5AXO.js:11112
+invokeGuardedCallbackDev @ chunk-EPFY5AXO.js:11137
+invokeGuardedCallback @ chunk-EPFY5AXO.js:11171
+beginWork$1 @ chunk-EPFY5AXO.js:27231
+performUnitOfWork @ chunk-EPFY5AXO.js:26664
+workLoopSync @ chunk-EPFY5AXO.js:26603
+renderRootSync @ chunk-EPFY5AXO.js:26582
+recoverFromConcurrentError @ chunk-EPFY5AXO.js:26202
+performSyncWorkOnRoot @ chunk-EPFY5AXO.js:26345
+flushSyncCallbacks @ chunk-EPFY5AXO.js:16573
+flushSync @ chunk-EPFY5AXO.js:26425
+scheduleRefresh @ chunk-EPFY5AXO.js:27470
+(анонимный) @ @react-refresh:267
+performReactRefresh @ @react-refresh:256
+setTimeout (асинхронно)
+(анонимный) @ @react-refresh:666
+validateRefreshBoundaryAndEnqueueUpdate @ @react-refresh:707
+(анонимный) @ Table.tsx?t=1719238202479:97
+(анонимный) @ hmr.ts:77
+(анонимный) @ hmr.ts:306
+(анонимный) @ hmr.ts:272
+queueUpdate @ hmr.ts:272
+await in queueUpdate (асинхронно)
+(анонимный) @ client.ts:199
+handleMessage @ client.ts:197
+(анонимный) @ client.ts:91
+Показать еще кадров: 7
+Меньше
+Table.tsx?t=1719238698615:57  Uncaught TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'HTMLDivElement'
+    |     property '__reactFiber$lrw1lil94nn' -> object with constructor 'FiberNode'
+    --- property 'stateNode' closes the circle
+    at JSON.stringify (<anonymous>)
+    at Table (Table.tsx?t=1719238698615:57:31)
+    at renderWithHooks (chunk-EPFY5AXO.js:19006:26)
+    at updateFunctionComponent (chunk-EPFY5AXO.js:22040:28)
+    at beginWork (chunk-EPFY5AXO.js:23382:22)
+    at HTMLUnknownElement.callCallback2 (chunk-EPFY5AXO.js:11112:22)
+    at Object.invokeGuardedCallbackDev (chunk-EPFY5AXO.js:11137:24)
+    at invokeGuardedCallback (chunk-EPFY5AXO.js:11171:39)
+    at beginWork$1 (chunk-EPFY5AXO.js:27231:15)
+    at performUnitOfWork (chunk-EPFY5AXO.js:26664:20)
+Table @ Table.tsx?t=1719238698615:57
+renderWithHooks @ chunk-EPFY5AXO.js:19006
+updateFunctionComponent @ chunk-EPFY5AXO.js:22040
+beginWork @ chunk-EPFY5AXO.js:23382
+callCallback2 @ chunk-EPFY5AXO.js:11112
+invokeGuardedCallbackDev @ chunk-EPFY5AXO.js:11137
+invokeGuardedCallback @ chunk-EPFY5AXO.js:11171
+beginWork$1 @ chunk-EPFY5AXO.js:27231
+performUnitOfWork @ chunk-EPFY5AXO.js:26664
+workLoopSync @ chunk-EPFY5AXO.js:26603
+renderRootSync @ chunk-EPFY5AXO.js:26582
+recoverFromConcurrentError @ chunk-EPFY5AXO.js:26202
+performSyncWorkOnRoot @ chunk-EPFY5AXO.js:26345
+flushSyncCallbacks @ chunk-EPFY5AXO.js:16573
+flushSync @ chunk-EPFY5AXO.js:26425
+scheduleRefresh @ chunk-EPFY5AXO.js:27470
+(анонимный) @ @react-refresh:267
+performReactRefresh @ @react-refresh:256
+setTimeout (асинхронно)
+(анонимный) @ @react-refresh:666
+validateRefreshBoundaryAndEnqueueUpdate @ @react-refresh:707
+(анонимный) @ Table.tsx?t=1719238202479:97
+(анонимный) @ hmr.ts:77
+(анонимный) @ hmr.ts:306
+(анонимный) @ hmr.ts:272
+queueUpdate @ hmr.ts:272
+await in queueUpdate (асинхронно)
+(анонимный) @ client.ts:199
+handleMessage @ client.ts:197
+(анонимный) @ client.ts:91
+Показать еще кадров: 7
+Меньше
+chunk-EPFY5AXO.js:21490  The above error occurred in the <Table> component:
+
+    at Table (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/markdown/elements/table/render/component/Table.tsx?t=1719238698615:54:18)
+    at article
+    at ErrorHandler (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/errorHandlers/client/components/ErrorHandler.tsx:17:5)
+    at div
+    at ArticleRenderer (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Article/ArticleRenderer.tsx?t=1719238468939:34:11)
+    at div
+    at ArticleUpdater (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Article/ArticleUpdater/ArticleUpdater.tsx?t=1719238468939:36:11)
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at Article (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Article/Article.tsx?t=1719238468939:43:20)
+    at div
+    at ArticlePage (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ArticlePage/ArticlePage.tsx?t=1719238468939:42:24)
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at ArticleViewContainer (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/views/articleView/ArticleViewContainer.tsx?t=1719238468939:27:42)
+    at div
+    at div
+    at div
+    at ArticleLayout (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/ArticleLayout/ArticleLayout.tsx:31:40)
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at ArticleComponent (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/ArticleLayout/ArticleComponent.tsx:35:11)
+    at div
+    at https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/CatalogLayout.tsx:13:6
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/LeftNavigationIsOpen.tsx:20:21)
+    at CatalogComponent (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/CatalogComponent.tsx?t=1719238468939:36:29)
+    at Router (https://localhost:5173/.vite-cache/deps/wouter.js?v=6d393fec:93:3)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/errorHandlers/client/ErrorConfirmService.tsx?t=1719238468939:24:21)
+    at ErrorBoundary (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/errorHandlers/client/components/ErrorBoundary.tsx?t=1719238468939:28:26)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/CommentCounter.tsx?t=1719238468939:18:21)
+    at OnUpdateAppFuncs (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ContextProviders.tsx?t=1719238468939:245:29)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsFirstLoadService.tsx:14:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/views/articleView/ArticleViewService.tsx?t=1719238468939:24:5)
+    at ViewContextProvider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ContextProviders.tsx?t=1719238468939:254:32)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ArticleTooltip.tsx?t=1719238468939:19:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsEdit.tsx?t=1719238468939:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/markdown/elements/tabs/components/CurrentTabsTagService.tsx:16:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/CatalogProps.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ArticleProps.tsx:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ArticleRef.tsx:14:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsMenuBarOpenService.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/markdown/elements/copyArticles/onLoadResourceService.tsx?t=1719238468939:18:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ModalToOpenService/ModalToOpenService.tsx?t=1719238468939:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/SidebarsIsPin.tsx:19:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ScrollWebkit.tsx:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsOpenMpdal.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/SyncIconService.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/SearchQuery.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsMac.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/Theme/components/ThemeService.tsx?t=1719238468939:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/RefreshPageContext.tsx:16:5)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/PageDataContext.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ApiUrlCreator.tsx:14:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsOfflineService.tsx:15:21)
+    at ContextProviders (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ContextProviders.tsx?t=1719238468939:55:3)
+    at AppContext (https://localhost:5173/src/AppContext.tsx?t=1719238468939:49:23)
+    at App (https://localhost:5173/src/App.tsx?t=1719238468939:34:27)
+
+React will try to recreate this component tree from scratch using the error boundary you provided, ErrorHandler.
+logCapturedError @ chunk-EPFY5AXO.js:21490
+callback @ chunk-EPFY5AXO.js:21536
+callCallback @ chunk-EPFY5AXO.js:18706
+commitUpdateQueue @ chunk-EPFY5AXO.js:18723
+commitLayoutEffectOnFiber @ chunk-EPFY5AXO.js:24535
+commitLayoutMountEffects_complete @ chunk-EPFY5AXO.js:25446
+commitLayoutEffects_begin @ chunk-EPFY5AXO.js:25435
+commitLayoutEffects @ chunk-EPFY5AXO.js:25386
+commitRootImpl @ chunk-EPFY5AXO.js:26819
+commitRoot @ chunk-EPFY5AXO.js:26743
+performSyncWorkOnRoot @ chunk-EPFY5AXO.js:26361
+flushSyncCallbacks @ chunk-EPFY5AXO.js:16573
+flushSync @ chunk-EPFY5AXO.js:26425
+scheduleRefresh @ chunk-EPFY5AXO.js:27470
+(анонимный) @ @react-refresh:267
+performReactRefresh @ @react-refresh:256
+setTimeout (асинхронно)
+(анонимный) @ @react-refresh:666
+validateRefreshBoundaryAndEnqueueUpdate @ @react-refresh:707
+(анонимный) @ Table.tsx?t=1719238202479:97
+(анонимный) @ hmr.ts:77
+(анонимный) @ hmr.ts:306
+(анонимный) @ hmr.ts:272
+queueUpdate @ hmr.ts:272
+await in queueUpdate (асинхронно)
+(анонимный) @ client.ts:199
+handleMessage @ client.ts:197
+(анонимный) @ client.ts:91
+Показать еще кадров: 7
+Меньше
+chunk-EPFY5AXO.js:21490  The above error occurred in the <Table> component:
+
+    at Table (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/markdown/elements/table/render/component/Table.tsx?t=1719238698615:54:18)
+    at article
+    at ErrorHandler (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/errorHandlers/client/components/ErrorHandler.tsx:17:5)
+    at div
+    at ArticleRenderer (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Article/ArticleRenderer.tsx?t=1719238468939:34:11)
+    at div
+    at ArticleUpdater (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Article/ArticleUpdater/ArticleUpdater.tsx?t=1719238468939:36:11)
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at Article (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Article/Article.tsx?t=1719238468939:43:20)
+    at div
+    at ArticlePage (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ArticlePage/ArticlePage.tsx?t=1719238468939:42:24)
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at ArticleViewContainer (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/views/articleView/ArticleViewContainer.tsx?t=1719238468939:27:42)
+    at div
+    at div
+    at div
+    at ArticleLayout (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/ArticleLayout/ArticleLayout.tsx:31:40)
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at ArticleComponent (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/ArticleLayout/ArticleComponent.tsx:35:11)
+    at div
+    at https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/CatalogLayout.tsx:13:6
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/LeftNavigationIsOpen.tsx:20:21)
+    at CatalogComponent (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/CatalogComponent.tsx?t=1719238468939:36:29)
+    at Router (https://localhost:5173/.vite-cache/deps/wouter.js?v=6d393fec:93:3)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/errorHandlers/client/ErrorConfirmService.tsx?t=1719238468939:24:21)
+    at ErrorBoundary (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/errorHandlers/client/components/ErrorBoundary.tsx?t=1719238468939:28:26)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/CommentCounter.tsx?t=1719238468939:18:21)
+    at OnUpdateAppFuncs (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ContextProviders.tsx?t=1719238468939:245:29)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsFirstLoadService.tsx:14:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/views/articleView/ArticleViewService.tsx?t=1719238468939:24:5)
+    at ViewContextProvider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ContextProviders.tsx?t=1719238468939:254:32)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ArticleTooltip.tsx?t=1719238468939:19:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsEdit.tsx?t=1719238468939:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/markdown/elements/tabs/components/CurrentTabsTagService.tsx:16:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/CatalogProps.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ArticleProps.tsx:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ArticleRef.tsx:14:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsMenuBarOpenService.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/markdown/elements/copyArticles/onLoadResourceService.tsx?t=1719238468939:18:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ModalToOpenService/ModalToOpenService.tsx?t=1719238468939:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/SidebarsIsPin.tsx:19:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ScrollWebkit.tsx:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsOpenMpdal.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/SyncIconService.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/SearchQuery.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsMac.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/Theme/components/ThemeService.tsx?t=1719238468939:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/RefreshPageContext.tsx:16:5)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/PageDataContext.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ApiUrlCreator.tsx:14:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsOfflineService.tsx:15:21)
+    at ContextProviders (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ContextProviders.tsx?t=1719238468939:55:3)
+    at AppContext (https://localhost:5173/src/AppContext.tsx?t=1719238468939:49:23)
+    at App (https://localhost:5173/src/App.tsx?t=1719238468939:34:27)
+
+React will try to recreate this component tree from scratch using the error boundary you provided, ErrorHandler.
+logCapturedError @ chunk-EPFY5AXO.js:21490
+callback @ chunk-EPFY5AXO.js:21536
+callCallback @ chunk-EPFY5AXO.js:18706
+commitUpdateQueue @ chunk-EPFY5AXO.js:18723
+commitLayoutEffectOnFiber @ chunk-EPFY5AXO.js:24535
+commitLayoutMountEffects_complete @ chunk-EPFY5AXO.js:25446
+commitLayoutEffects_begin @ chunk-EPFY5AXO.js:25435
+commitLayoutEffects @ chunk-EPFY5AXO.js:25386
+commitRootImpl @ chunk-EPFY5AXO.js:26819
+commitRoot @ chunk-EPFY5AXO.js:26743
+performSyncWorkOnRoot @ chunk-EPFY5AXO.js:26361
+flushSyncCallbacks @ chunk-EPFY5AXO.js:16573
+flushSync @ chunk-EPFY5AXO.js:26425
+scheduleRefresh @ chunk-EPFY5AXO.js:27470
+(анонимный) @ @react-refresh:267
+performReactRefresh @ @react-refresh:256
+setTimeout (асинхронно)
+(анонимный) @ @react-refresh:666
+validateRefreshBoundaryAndEnqueueUpdate @ @react-refresh:707
+(анонимный) @ Table.tsx?t=1719238202479:97
+(анонимный) @ hmr.ts:77
+(анонимный) @ hmr.ts:306
+(анонимный) @ hmr.ts:272
+queueUpdate @ hmr.ts:272
+await in queueUpdate (асинхронно)
+(анонимный) @ client.ts:199
+handleMessage @ client.ts:197
+(анонимный) @ client.ts:91
+Показать еще кадров: 7
+Меньше
+Table.tsx?t=1719238708762:57 {$$typeof: Symbol(react.element), type: 'tbody', key: null, ref: null, props: {…}, …} false
+Colgroup.tsx:29 {$$typeof: Symbol(react.element), type: 'tbody', key: null, ref: null, props: {…}, …}
+Table.tsx?t=1719238708762:57 (2) [{…}, {…}] false
+Colgroup.tsx:29 (2) [{…}, {…}]0: $$typeof: Symbol(react.element)key: nullprops: children: {$$typeof: Symbol(react.element), type: 'tr', key: null, ref: null, props: {…}, …}[[Prototype]]: Objectref: nulltype: "thead"_owner: FiberNode {tag: 0, key: null, stateNode: null, elementType: ƒ, type: ƒ, …}_store: {validated: true}_self: null_source: null[[Prototype]]: Object1: {$$typeof: Symbol(react.element), type: 'tbody', key: null, ref: null, props: {…}, …}length: 2[[Prototype]]: Array(0)
+Table.tsx?t=1719238768481:57 {children: Array(3)}children: Array(3)0: $$typeof: Symbol(react.element)key: nullprops: children: Array(2)0: {$$typeof: Symbol(react.element), type: 'th', key: null, ref: null, props: {…}, …}1: {$$typeof: Symbol(react.element), type: 'th', key: null, ref: null, props: {…}, …}length: 2[[Prototype]]: Array(0)[[Prototype]]: Objectref: nulltype: "tr"_owner: FiberNode {tag: 0, key: null, stateNode: null, elementType: ƒ, type: ƒ, …}_store: {validated: true}_self: null_source: null[[Prototype]]: Object1: {$$typeof: Symbol(react.element), type: 'tr', key: null, ref: null, props: {…}, …}2: {$$typeof: Symbol(react.element), type: 'tr', key: null, ref: null, props: {…}, …}length: 3[[Prototype]]: Array(0)[[Prototype]]: Object false
+Colgroup.tsx:29 {$$typeof: Symbol(react.element), type: 'tbody', key: null, ref: null, props: {…}, …}
+Table.tsx?t=1719238768481:57 undefined false
+Colgroup.tsx:29 (2) [{…}, {…}]
+Table.tsx?t=1719238824374:57 undefined false
+Colgroup.tsx:29 {$$typeof: Symbol(react.element), type: 'tbody', key: null, ref: null, props: {…}, …}
+Table.tsx?t=1719238824374:57  Uncaught TypeError: Cannot read properties of undefined (reading 'firstChild')
+    at Table (Table.tsx?t=1719238824374:57:30)
+    at renderWithHooks (chunk-EPFY5AXO.js:19006:26)
+    at updateFunctionComponent (chunk-EPFY5AXO.js:22040:28)
+    at beginWork (chunk-EPFY5AXO.js:23382:22)
+    at HTMLUnknownElement.callCallback2 (chunk-EPFY5AXO.js:11112:22)
+    at Object.invokeGuardedCallbackDev (chunk-EPFY5AXO.js:11137:24)
+    at invokeGuardedCallback (chunk-EPFY5AXO.js:11171:39)
+    at beginWork$1 (chunk-EPFY5AXO.js:27231:15)
+    at performUnitOfWork (chunk-EPFY5AXO.js:26664:20)
+    at workLoopSync (chunk-EPFY5AXO.js:26603:13)
+Table @ Table.tsx?t=1719238824374:57
+renderWithHooks @ chunk-EPFY5AXO.js:19006
+updateFunctionComponent @ chunk-EPFY5AXO.js:22040
+beginWork @ chunk-EPFY5AXO.js:23382
+callCallback2 @ chunk-EPFY5AXO.js:11112
+invokeGuardedCallbackDev @ chunk-EPFY5AXO.js:11137
+invokeGuardedCallback @ chunk-EPFY5AXO.js:11171
+beginWork$1 @ chunk-EPFY5AXO.js:27231
+performUnitOfWork @ chunk-EPFY5AXO.js:26664
+workLoopSync @ chunk-EPFY5AXO.js:26603
+renderRootSync @ chunk-EPFY5AXO.js:26582
+performSyncWorkOnRoot @ chunk-EPFY5AXO.js:26340
+flushSyncCallbacks @ chunk-EPFY5AXO.js:16573
+flushSync @ chunk-EPFY5AXO.js:26425
+scheduleRefresh @ chunk-EPFY5AXO.js:27470
+(анонимный) @ @react-refresh:267
+performReactRefresh @ @react-refresh:256
+setTimeout (асинхронно)
+(анонимный) @ @react-refresh:666
+validateRefreshBoundaryAndEnqueueUpdate @ @react-refresh:707
+(анонимный) @ Table.tsx?t=1719238768481:97
+(анонимный) @ hmr.ts:77
+(анонимный) @ hmr.ts:306
+(анонимный) @ hmr.ts:272
+queueUpdate @ hmr.ts:272
+await in queueUpdate (асинхронно)
+(анонимный) @ client.ts:199
+handleMessage @ client.ts:197
+(анонимный) @ client.ts:91
+Показать еще кадров: 7
+Меньше
+Table.tsx?t=1719238824374:57 undefined false
+Colgroup.tsx:29 {$$typeof: Symbol(react.element), type: 'tbody', key: null, ref: null, props: {…}, …}
+Table.tsx?t=1719238824374:57  Uncaught TypeError: Cannot read properties of undefined (reading 'firstChild')
+    at Table (Table.tsx?t=1719238824374:57:30)
+    at renderWithHooks (chunk-EPFY5AXO.js:19006:26)
+    at updateFunctionComponent (chunk-EPFY5AXO.js:22040:28)
+    at beginWork (chunk-EPFY5AXO.js:23382:22)
+    at HTMLUnknownElement.callCallback2 (chunk-EPFY5AXO.js:11112:22)
+    at Object.invokeGuardedCallbackDev (chunk-EPFY5AXO.js:11137:24)
+    at invokeGuardedCallback (chunk-EPFY5AXO.js:11171:39)
+    at beginWork$1 (chunk-EPFY5AXO.js:27231:15)
+    at performUnitOfWork (chunk-EPFY5AXO.js:26664:20)
+    at workLoopSync (chunk-EPFY5AXO.js:26603:13)
+Table @ Table.tsx?t=1719238824374:57
+renderWithHooks @ chunk-EPFY5AXO.js:19006
+updateFunctionComponent @ chunk-EPFY5AXO.js:22040
+beginWork @ chunk-EPFY5AXO.js:23382
+callCallback2 @ chunk-EPFY5AXO.js:11112
+invokeGuardedCallbackDev @ chunk-EPFY5AXO.js:11137
+invokeGuardedCallback @ chunk-EPFY5AXO.js:11171
+beginWork$1 @ chunk-EPFY5AXO.js:27231
+performUnitOfWork @ chunk-EPFY5AXO.js:26664
+workLoopSync @ chunk-EPFY5AXO.js:26603
+renderRootSync @ chunk-EPFY5AXO.js:26582
+recoverFromConcurrentError @ chunk-EPFY5AXO.js:26202
+performSyncWorkOnRoot @ chunk-EPFY5AXO.js:26345
+flushSyncCallbacks @ chunk-EPFY5AXO.js:16573
+flushSync @ chunk-EPFY5AXO.js:26425
+scheduleRefresh @ chunk-EPFY5AXO.js:27470
+(анонимный) @ @react-refresh:267
+performReactRefresh @ @react-refresh:256
+setTimeout (асинхронно)
+(анонимный) @ @react-refresh:666
+validateRefreshBoundaryAndEnqueueUpdate @ @react-refresh:707
+(анонимный) @ Table.tsx?t=1719238768481:97
+(анонимный) @ hmr.ts:77
+(анонимный) @ hmr.ts:306
+(анонимный) @ hmr.ts:272
+queueUpdate @ hmr.ts:272
+await in queueUpdate (асинхронно)
+(анонимный) @ client.ts:199
+handleMessage @ client.ts:197
+(анонимный) @ client.ts:91
+Показать еще кадров: 7
+Меньше
+chunk-EPFY5AXO.js:21490  The above error occurred in the <Table> component:
+
+    at Table (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/markdown/elements/table/render/component/Table.tsx?t=1719238824374:54:18)
+    at article
+    at ErrorHandler (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/errorHandlers/client/components/ErrorHandler.tsx:17:5)
+    at div
+    at ArticleRenderer (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Article/ArticleRenderer.tsx?t=1719238468939:34:11)
+    at div
+    at ArticleUpdater (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Article/ArticleUpdater/ArticleUpdater.tsx?t=1719238468939:36:11)
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at Article (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Article/Article.tsx?t=1719238468939:43:20)
+    at div
+    at ArticlePage (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ArticlePage/ArticlePage.tsx?t=1719238468939:42:24)
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at ArticleViewContainer (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/views/articleView/ArticleViewContainer.tsx?t=1719238468939:27:42)
+    at div
+    at div
+    at div
+    at ArticleLayout (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/ArticleLayout/ArticleLayout.tsx:31:40)
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at ArticleComponent (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/ArticleLayout/ArticleComponent.tsx:35:11)
+    at div
+    at https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/CatalogLayout.tsx:13:6
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/LeftNavigationIsOpen.tsx:20:21)
+    at CatalogComponent (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/CatalogComponent.tsx?t=1719238468939:36:29)
+    at Router (https://localhost:5173/.vite-cache/deps/wouter.js?v=6d393fec:93:3)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/errorHandlers/client/ErrorConfirmService.tsx?t=1719238468939:24:21)
+    at ErrorBoundary (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/errorHandlers/client/components/ErrorBoundary.tsx?t=1719238468939:28:26)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/CommentCounter.tsx?t=1719238468939:18:21)
+    at OnUpdateAppFuncs (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ContextProviders.tsx?t=1719238468939:245:29)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsFirstLoadService.tsx:14:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/views/articleView/ArticleViewService.tsx?t=1719238468939:24:5)
+    at ViewContextProvider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ContextProviders.tsx?t=1719238468939:254:32)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ArticleTooltip.tsx?t=1719238468939:19:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsEdit.tsx?t=1719238468939:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/markdown/elements/tabs/components/CurrentTabsTagService.tsx:16:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/CatalogProps.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ArticleProps.tsx:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ArticleRef.tsx:14:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsMenuBarOpenService.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/markdown/elements/copyArticles/onLoadResourceService.tsx?t=1719238468939:18:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ModalToOpenService/ModalToOpenService.tsx?t=1719238468939:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/SidebarsIsPin.tsx:19:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ScrollWebkit.tsx:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsOpenMpdal.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/SyncIconService.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/SearchQuery.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsMac.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/Theme/components/ThemeService.tsx?t=1719238468939:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/RefreshPageContext.tsx:16:5)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/PageDataContext.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ApiUrlCreator.tsx:14:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsOfflineService.tsx:15:21)
+    at ContextProviders (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ContextProviders.tsx?t=1719238468939:55:3)
+    at AppContext (https://localhost:5173/src/AppContext.tsx?t=1719238468939:49:23)
+    at App (https://localhost:5173/src/App.tsx?t=1719238468939:34:27)
+
+React will try to recreate this component tree from scratch using the error boundary you provided, ErrorHandler.
+logCapturedError @ chunk-EPFY5AXO.js:21490
+callback @ chunk-EPFY5AXO.js:21536
+callCallback @ chunk-EPFY5AXO.js:18706
+commitUpdateQueue @ chunk-EPFY5AXO.js:18723
+commitLayoutEffectOnFiber @ chunk-EPFY5AXO.js:24535
+commitLayoutMountEffects_complete @ chunk-EPFY5AXO.js:25446
+commitLayoutEffects_begin @ chunk-EPFY5AXO.js:25435
+commitLayoutEffects @ chunk-EPFY5AXO.js:25386
+commitRootImpl @ chunk-EPFY5AXO.js:26819
+commitRoot @ chunk-EPFY5AXO.js:26743
+performSyncWorkOnRoot @ chunk-EPFY5AXO.js:26361
+flushSyncCallbacks @ chunk-EPFY5AXO.js:16573
+flushSync @ chunk-EPFY5AXO.js:26425
+scheduleRefresh @ chunk-EPFY5AXO.js:27470
+(анонимный) @ @react-refresh:267
+performReactRefresh @ @react-refresh:256
+setTimeout (асинхронно)
+(анонимный) @ @react-refresh:666
+validateRefreshBoundaryAndEnqueueUpdate @ @react-refresh:707
+(анонимный) @ Table.tsx?t=1719238768481:97
+(анонимный) @ hmr.ts:77
+(анонимный) @ hmr.ts:306
+(анонимный) @ hmr.ts:272
+queueUpdate @ hmr.ts:272
+await in queueUpdate (асинхронно)
+(анонимный) @ client.ts:199
+handleMessage @ client.ts:197
+(анонимный) @ client.ts:91
+Показать еще кадров: 7
+Меньше
+Table.tsx?t=1719238831770:57 {children: Array(3)}children: (3) [{…}, {…}, {…}][[Prototype]]: Object false
+Colgroup.tsx:29 {$$typeof: Symbol(react.element), type: 'tbody', key: null, ref: null, props: {…}, …}
+Table.tsx?t=1719238831770:57 undefined false
+Colgroup.tsx:29 (2) [{…}, {…}]
+Table.tsx?t=1719238847669:57 (3) [{…}, {…}, {…}] false
+Colgroup.tsx:29 {$$typeof: Symbol(react.element), type: 'tbody', key: null, ref: null, props: {…}, …}
+Table.tsx?t=1719238847669:57  Uncaught TypeError: Cannot read properties of undefined (reading 'children')
+    at Table (Table.tsx?t=1719238847669:57:30)
+    at renderWithHooks (chunk-EPFY5AXO.js:19006:26)
+    at updateFunctionComponent (chunk-EPFY5AXO.js:22040:28)
+    at beginWork (chunk-EPFY5AXO.js:23382:22)
+    at HTMLUnknownElement.callCallback2 (chunk-EPFY5AXO.js:11112:22)
+    at Object.invokeGuardedCallbackDev (chunk-EPFY5AXO.js:11137:24)
+    at invokeGuardedCallback (chunk-EPFY5AXO.js:11171:39)
+    at beginWork$1 (chunk-EPFY5AXO.js:27231:15)
+    at performUnitOfWork (chunk-EPFY5AXO.js:26664:20)
+    at workLoopSync (chunk-EPFY5AXO.js:26603:13)
+Table @ Table.tsx?t=1719238847669:57
+renderWithHooks @ chunk-EPFY5AXO.js:19006
+updateFunctionComponent @ chunk-EPFY5AXO.js:22040
+beginWork @ chunk-EPFY5AXO.js:23382
+callCallback2 @ chunk-EPFY5AXO.js:11112
+invokeGuardedCallbackDev @ chunk-EPFY5AXO.js:11137
+invokeGuardedCallback @ chunk-EPFY5AXO.js:11171
+beginWork$1 @ chunk-EPFY5AXO.js:27231
+performUnitOfWork @ chunk-EPFY5AXO.js:26664
+workLoopSync @ chunk-EPFY5AXO.js:26603
+renderRootSync @ chunk-EPFY5AXO.js:26582
+performSyncWorkOnRoot @ chunk-EPFY5AXO.js:26340
+flushSyncCallbacks @ chunk-EPFY5AXO.js:16573
+flushSync @ chunk-EPFY5AXO.js:26425
+scheduleRefresh @ chunk-EPFY5AXO.js:27470
+(анонимный) @ @react-refresh:267
+performReactRefresh @ @react-refresh:256
+setTimeout (асинхронно)
+(анонимный) @ @react-refresh:666
+validateRefreshBoundaryAndEnqueueUpdate @ @react-refresh:707
+(анонимный) @ Table.tsx?t=1719238831770:97
+(анонимный) @ hmr.ts:77
+(анонимный) @ hmr.ts:306
+(анонимный) @ hmr.ts:272
+queueUpdate @ hmr.ts:272
+await in queueUpdate (асинхронно)
+(анонимный) @ client.ts:199
+handleMessage @ client.ts:197
+(анонимный) @ client.ts:91
+Показать еще кадров: 7
+Меньше
+Table.tsx?t=1719238847669:57 (3) [{…}, {…}, {…}] false
+Colgroup.tsx:29 {$$typeof: Symbol(react.element), type: 'tbody', key: null, ref: null, props: {…}, …}
+Table.tsx?t=1719238847669:57  Uncaught TypeError: Cannot read properties of undefined (reading 'children')
+    at Table (Table.tsx?t=1719238847669:57:30)
+    at renderWithHooks (chunk-EPFY5AXO.js:19006:26)
+    at updateFunctionComponent (chunk-EPFY5AXO.js:22040:28)
+    at beginWork (chunk-EPFY5AXO.js:23382:22)
+    at HTMLUnknownElement.callCallback2 (chunk-EPFY5AXO.js:11112:22)
+    at Object.invokeGuardedCallbackDev (chunk-EPFY5AXO.js:11137:24)
+    at invokeGuardedCallback (chunk-EPFY5AXO.js:11171:39)
+    at beginWork$1 (chunk-EPFY5AXO.js:27231:15)
+    at performUnitOfWork (chunk-EPFY5AXO.js:26664:20)
+    at workLoopSync (chunk-EPFY5AXO.js:26603:13)
+Table @ Table.tsx?t=1719238847669:57
+renderWithHooks @ chunk-EPFY5AXO.js:19006
+updateFunctionComponent @ chunk-EPFY5AXO.js:22040
+beginWork @ chunk-EPFY5AXO.js:23382
+callCallback2 @ chunk-EPFY5AXO.js:11112
+invokeGuardedCallbackDev @ chunk-EPFY5AXO.js:11137
+invokeGuardedCallback @ chunk-EPFY5AXO.js:11171
+beginWork$1 @ chunk-EPFY5AXO.js:27231
+performUnitOfWork @ chunk-EPFY5AXO.js:26664
+workLoopSync @ chunk-EPFY5AXO.js:26603
+renderRootSync @ chunk-EPFY5AXO.js:26582
+recoverFromConcurrentError @ chunk-EPFY5AXO.js:26202
+performSyncWorkOnRoot @ chunk-EPFY5AXO.js:26345
+flushSyncCallbacks @ chunk-EPFY5AXO.js:16573
+flushSync @ chunk-EPFY5AXO.js:26425
+scheduleRefresh @ chunk-EPFY5AXO.js:27470
+(анонимный) @ @react-refresh:267
+performReactRefresh @ @react-refresh:256
+setTimeout (асинхронно)
+(анонимный) @ @react-refresh:666
+validateRefreshBoundaryAndEnqueueUpdate @ @react-refresh:707
+(анонимный) @ Table.tsx?t=1719238831770:97
+(анонимный) @ hmr.ts:77
+(анонимный) @ hmr.ts:306
+(анонимный) @ hmr.ts:272
+queueUpdate @ hmr.ts:272
+await in queueUpdate (асинхронно)
+(анонимный) @ client.ts:199
+handleMessage @ client.ts:197
+(анонимный) @ client.ts:91
+Показать еще кадров: 7
+Меньше
+chunk-EPFY5AXO.js:21490  The above error occurred in the <Table> component:
+
+    at Table (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/markdown/elements/table/render/component/Table.tsx?t=1719238847669:54:18)
+    at article
+    at ErrorHandler (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/errorHandlers/client/components/ErrorHandler.tsx:17:5)
+    at div
+    at ArticleRenderer (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Article/ArticleRenderer.tsx?t=1719238468939:34:11)
+    at div
+    at ArticleUpdater (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Article/ArticleUpdater/ArticleUpdater.tsx?t=1719238468939:36:11)
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at Article (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Article/Article.tsx?t=1719238468939:43:20)
+    at div
+    at ArticlePage (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ArticlePage/ArticlePage.tsx?t=1719238468939:42:24)
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at ArticleViewContainer (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/views/articleView/ArticleViewContainer.tsx?t=1719238468939:27:42)
+    at div
+    at div
+    at div
+    at ArticleLayout (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/ArticleLayout/ArticleLayout.tsx:31:40)
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at ArticleComponent (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/ArticleLayout/ArticleComponent.tsx:35:11)
+    at div
+    at https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/CatalogLayout.tsx:13:6
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/LeftNavigationIsOpen.tsx:20:21)
+    at CatalogComponent (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/CatalogComponent.tsx?t=1719238468939:36:29)
+    at Router (https://localhost:5173/.vite-cache/deps/wouter.js?v=6d393fec:93:3)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/errorHandlers/client/ErrorConfirmService.tsx?t=1719238468939:24:21)
+    at ErrorBoundary (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/errorHandlers/client/components/ErrorBoundary.tsx?t=1719238468939:28:26)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/CommentCounter.tsx?t=1719238468939:18:21)
+    at OnUpdateAppFuncs (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ContextProviders.tsx?t=1719238468939:245:29)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsFirstLoadService.tsx:14:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/views/articleView/ArticleViewService.tsx?t=1719238468939:24:5)
+    at ViewContextProvider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ContextProviders.tsx?t=1719238468939:254:32)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ArticleTooltip.tsx?t=1719238468939:19:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsEdit.tsx?t=1719238468939:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/markdown/elements/tabs/components/CurrentTabsTagService.tsx:16:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/CatalogProps.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ArticleProps.tsx:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ArticleRef.tsx:14:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsMenuBarOpenService.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/markdown/elements/copyArticles/onLoadResourceService.tsx?t=1719238468939:18:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ModalToOpenService/ModalToOpenService.tsx?t=1719238468939:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/SidebarsIsPin.tsx:19:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ScrollWebkit.tsx:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsOpenMpdal.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/SyncIconService.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/SearchQuery.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsMac.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/Theme/components/ThemeService.tsx?t=1719238468939:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/RefreshPageContext.tsx:16:5)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/PageDataContext.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ApiUrlCreator.tsx:14:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsOfflineService.tsx:15:21)
+    at ContextProviders (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ContextProviders.tsx?t=1719238468939:55:3)
+    at AppContext (https://localhost:5173/src/AppContext.tsx?t=1719238468939:49:23)
+    at App (https://localhost:5173/src/App.tsx?t=1719238468939:34:27)
+
+React will try to recreate this component tree from scratch using the error boundary you provided, ErrorHandler.
+logCapturedError @ chunk-EPFY5AXO.js:21490
+callback @ chunk-EPFY5AXO.js:21536
+callCallback @ chunk-EPFY5AXO.js:18706
+commitUpdateQueue @ chunk-EPFY5AXO.js:18723
+commitLayoutEffectOnFiber @ chunk-EPFY5AXO.js:24535
+commitLayoutMountEffects_complete @ chunk-EPFY5AXO.js:25446
+commitLayoutEffects_begin @ chunk-EPFY5AXO.js:25435
+commitLayoutEffects @ chunk-EPFY5AXO.js:25386
+commitRootImpl @ chunk-EPFY5AXO.js:26819
+commitRoot @ chunk-EPFY5AXO.js:26743
+performSyncWorkOnRoot @ chunk-EPFY5AXO.js:26361
+flushSyncCallbacks @ chunk-EPFY5AXO.js:16573
+flushSync @ chunk-EPFY5AXO.js:26425
+scheduleRefresh @ chunk-EPFY5AXO.js:27470
+(анонимный) @ @react-refresh:267
+performReactRefresh @ @react-refresh:256
+setTimeout (асинхронно)
+(анонимный) @ @react-refresh:666
+validateRefreshBoundaryAndEnqueueUpdate @ @react-refresh:707
+(анонимный) @ Table.tsx?t=1719238831770:97
+(анонимный) @ hmr.ts:77
+(анонимный) @ hmr.ts:306
+(анонимный) @ hmr.ts:272
+queueUpdate @ hmr.ts:272
+await in queueUpdate (асинхронно)
+(анонимный) @ client.ts:199
+handleMessage @ client.ts:197
+(анонимный) @ client.ts:91
+Показать еще кадров: 7
+Меньше
+Table.tsx?t=1719238852971:57 (3) [{…}, {…}, {…}]0: $$typeof: Symbol(react.element)key: nullprops: children: (2) [{…}, {…}]0: $$typeof: Symbol(react.element)key: nullprops: {colspan: 2}ref: nulltype: "th"_owner: FiberNode {tag: 0, key: null, stateNode: null, elementType: ƒ, type: ƒ, …}_store: {validated: true}_self: null_source: null[[Prototype]]: Object1: {$$typeof: Symbol(react.element), type: 'th', key: null, ref: null, props: {…}, …}length: 2[[Prototype]]: Array(0)[[Prototype]]: Objectref: nulltype: "tr"_owner: FiberNode {tag: 0, key: null, stateNode: null, elementType: ƒ, type: ƒ, …}_store: {validated: true}_self: null_source: null[[Prototype]]: Object1: {$$typeof: Symbol(react.element), type: 'tr', key: null, ref: null, props: {…}, …}2: {$$typeof: Symbol(react.element), type: 'tr', key: null, ref: null, props: {…}, …}length: 3[[Prototype]]: Array(0) false
+Colgroup.tsx:29 {$$typeof: Symbol(react.element), type: 'tbody', key: null, ref: null, props: {…}, …}
+Table.tsx?t=1719238852971:57 undefined false
+Colgroup.tsx:29 (2) [{…}, {…}]
+Table.tsx?t=1719238884500:57  Uncaught TypeError: Cannot read properties of undefined (reading 'children')
+    at Table (Table.tsx?t=1719238884500:57:45)
+    at renderWithHooks (chunk-EPFY5AXO.js:19006:26)
+    at updateFunctionComponent (chunk-EPFY5AXO.js:22040:28)
+    at beginWork (chunk-EPFY5AXO.js:23382:22)
+    at HTMLUnknownElement.callCallback2 (chunk-EPFY5AXO.js:11112:22)
+    at Object.invokeGuardedCallbackDev (chunk-EPFY5AXO.js:11137:24)
+    at invokeGuardedCallback (chunk-EPFY5AXO.js:11171:39)
+    at beginWork$1 (chunk-EPFY5AXO.js:27231:15)
+    at performUnitOfWork (chunk-EPFY5AXO.js:26664:20)
+    at workLoopSync (chunk-EPFY5AXO.js:26603:13)
+Table @ Table.tsx?t=1719238884500:57
+renderWithHooks @ chunk-EPFY5AXO.js:19006
+updateFunctionComponent @ chunk-EPFY5AXO.js:22040
+beginWork @ chunk-EPFY5AXO.js:23382
+callCallback2 @ chunk-EPFY5AXO.js:11112
+invokeGuardedCallbackDev @ chunk-EPFY5AXO.js:11137
+invokeGuardedCallback @ chunk-EPFY5AXO.js:11171
+beginWork$1 @ chunk-EPFY5AXO.js:27231
+performUnitOfWork @ chunk-EPFY5AXO.js:26664
+workLoopSync @ chunk-EPFY5AXO.js:26603
+renderRootSync @ chunk-EPFY5AXO.js:26582
+performSyncWorkOnRoot @ chunk-EPFY5AXO.js:26340
+flushSyncCallbacks @ chunk-EPFY5AXO.js:16573
+flushSync @ chunk-EPFY5AXO.js:26425
+scheduleRefresh @ chunk-EPFY5AXO.js:27470
+(анонимный) @ @react-refresh:267
+performReactRefresh @ @react-refresh:256
+setTimeout (асинхронно)
+(анонимный) @ @react-refresh:666
+validateRefreshBoundaryAndEnqueueUpdate @ @react-refresh:707
+(анонимный) @ Table.tsx?t=1719238852971:97
+(анонимный) @ hmr.ts:77
+(анонимный) @ hmr.ts:306
+(анонимный) @ hmr.ts:272
+queueUpdate @ hmr.ts:272
+await in queueUpdate (асинхронно)
+(анонимный) @ client.ts:199
+handleMessage @ client.ts:197
+(анонимный) @ client.ts:91
+Показать еще кадров: 7
+Меньше
+Table.tsx?t=1719238884500:57 undefined false
+Colgroup.tsx:29 (2) [{…}, {…}]
+Table.tsx?t=1719238884500:57  Uncaught TypeError: Cannot read properties of undefined (reading 'children')
+    at Table (Table.tsx?t=1719238884500:57:45)
+    at renderWithHooks (chunk-EPFY5AXO.js:19006:26)
+    at updateFunctionComponent (chunk-EPFY5AXO.js:22040:28)
+    at beginWork (chunk-EPFY5AXO.js:23382:22)
+    at HTMLUnknownElement.callCallback2 (chunk-EPFY5AXO.js:11112:22)
+    at Object.invokeGuardedCallbackDev (chunk-EPFY5AXO.js:11137:24)
+    at invokeGuardedCallback (chunk-EPFY5AXO.js:11171:39)
+    at beginWork$1 (chunk-EPFY5AXO.js:27231:15)
+    at performUnitOfWork (chunk-EPFY5AXO.js:26664:20)
+    at workLoopSync (chunk-EPFY5AXO.js:26603:13)
+Table @ Table.tsx?t=1719238884500:57
+renderWithHooks @ chunk-EPFY5AXO.js:19006
+updateFunctionComponent @ chunk-EPFY5AXO.js:22040
+beginWork @ chunk-EPFY5AXO.js:23382
+callCallback2 @ chunk-EPFY5AXO.js:11112
+invokeGuardedCallbackDev @ chunk-EPFY5AXO.js:11137
+invokeGuardedCallback @ chunk-EPFY5AXO.js:11171
+beginWork$1 @ chunk-EPFY5AXO.js:27231
+performUnitOfWork @ chunk-EPFY5AXO.js:26664
+workLoopSync @ chunk-EPFY5AXO.js:26603
+renderRootSync @ chunk-EPFY5AXO.js:26582
+recoverFromConcurrentError @ chunk-EPFY5AXO.js:26202
+performSyncWorkOnRoot @ chunk-EPFY5AXO.js:26345
+flushSyncCallbacks @ chunk-EPFY5AXO.js:16573
+flushSync @ chunk-EPFY5AXO.js:26425
+scheduleRefresh @ chunk-EPFY5AXO.js:27470
+(анонимный) @ @react-refresh:267
+performReactRefresh @ @react-refresh:256
+setTimeout (асинхронно)
+(анонимный) @ @react-refresh:666
+validateRefreshBoundaryAndEnqueueUpdate @ @react-refresh:707
+(анонимный) @ Table.tsx?t=1719238852971:97
+(анонимный) @ hmr.ts:77
+(анонимный) @ hmr.ts:306
+(анонимный) @ hmr.ts:272
+queueUpdate @ hmr.ts:272
+await in queueUpdate (асинхронно)
+(анонимный) @ client.ts:199
+handleMessage @ client.ts:197
+(анонимный) @ client.ts:91
+Показать еще кадров: 7
+Меньше
+Table.tsx?t=1719238884500:57 undefined false
+Colgroup.tsx:29 (2) [{…}, {…}]
+chunk-EPFY5AXO.js:21490  The above error occurred in the <Table> component:
+
+    at Table (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/markdown/elements/table/render/component/Table.tsx?t=1719238884500:54:18)
+    at article
+    at ErrorHandler (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/errorHandlers/client/components/ErrorHandler.tsx:17:5)
+    at div
+    at ArticleRenderer (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Article/ArticleRenderer.tsx?t=1719238468939:34:11)
+    at div
+    at ArticleUpdater (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Article/ArticleUpdater/ArticleUpdater.tsx?t=1719238468939:36:11)
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at Article (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Article/Article.tsx?t=1719238468939:43:20)
+    at div
+    at ArticlePage (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ArticlePage/ArticlePage.tsx?t=1719238468939:42:24)
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at ArticleViewContainer (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/views/articleView/ArticleViewContainer.tsx?t=1719238468939:27:42)
+    at div
+    at div
+    at div
+    at ArticleLayout (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/ArticleLayout/ArticleLayout.tsx:31:40)
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at ArticleComponent (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/ArticleLayout/ArticleComponent.tsx:35:11)
+    at div
+    at https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/CatalogLayout.tsx:13:6
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/LeftNavigationIsOpen.tsx:20:21)
+    at CatalogComponent (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/CatalogComponent.tsx?t=1719238468939:36:29)
+    at Router (https://localhost:5173/.vite-cache/deps/wouter.js?v=6d393fec:93:3)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/errorHandlers/client/ErrorConfirmService.tsx?t=1719238468939:24:21)
+    at ErrorBoundary (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/errorHandlers/client/components/ErrorBoundary.tsx?t=1719238468939:28:26)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/CommentCounter.tsx?t=1719238468939:18:21)
+    at OnUpdateAppFuncs (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ContextProviders.tsx?t=1719238468939:245:29)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsFirstLoadService.tsx:14:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/views/articleView/ArticleViewService.tsx?t=1719238468939:24:5)
+    at ViewContextProvider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ContextProviders.tsx?t=1719238468939:254:32)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ArticleTooltip.tsx?t=1719238468939:19:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsEdit.tsx?t=1719238468939:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/markdown/elements/tabs/components/CurrentTabsTagService.tsx:16:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/CatalogProps.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ArticleProps.tsx:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ArticleRef.tsx:14:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsMenuBarOpenService.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/markdown/elements/copyArticles/onLoadResourceService.tsx?t=1719238468939:18:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ModalToOpenService/ModalToOpenService.tsx?t=1719238468939:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/SidebarsIsPin.tsx:19:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ScrollWebkit.tsx:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsOpenMpdal.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/SyncIconService.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/SearchQuery.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsMac.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/Theme/components/ThemeService.tsx?t=1719238468939:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/RefreshPageContext.tsx:16:5)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/PageDataContext.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ApiUrlCreator.tsx:14:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsOfflineService.tsx:15:21)
+    at ContextProviders (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ContextProviders.tsx?t=1719238468939:55:3)
+    at AppContext (https://localhost:5173/src/AppContext.tsx?t=1719238468939:49:23)
+    at App (https://localhost:5173/src/App.tsx?t=1719238468939:34:27)
+
+React will try to recreate this component tree from scratch using the error boundary you provided, ErrorHandler.
+logCapturedError @ chunk-EPFY5AXO.js:21490
+callback @ chunk-EPFY5AXO.js:21536
+callCallback @ chunk-EPFY5AXO.js:18706
+commitUpdateQueue @ chunk-EPFY5AXO.js:18723
+commitLayoutEffectOnFiber @ chunk-EPFY5AXO.js:24535
+commitLayoutMountEffects_complete @ chunk-EPFY5AXO.js:25446
+commitLayoutEffects_begin @ chunk-EPFY5AXO.js:25435
+commitLayoutEffects @ chunk-EPFY5AXO.js:25386
+commitRootImpl @ chunk-EPFY5AXO.js:26819
+commitRoot @ chunk-EPFY5AXO.js:26743
+performSyncWorkOnRoot @ chunk-EPFY5AXO.js:26361
+flushSyncCallbacks @ chunk-EPFY5AXO.js:16573
+flushSync @ chunk-EPFY5AXO.js:26425
+scheduleRefresh @ chunk-EPFY5AXO.js:27470
+(анонимный) @ @react-refresh:267
+performReactRefresh @ @react-refresh:256
+setTimeout (асинхронно)
+(анонимный) @ @react-refresh:666
+validateRefreshBoundaryAndEnqueueUpdate @ @react-refresh:707
+(анонимный) @ Table.tsx?t=1719238852971:97
+(анонимный) @ hmr.ts:77
+(анонимный) @ hmr.ts:306
+(анонимный) @ hmr.ts:272
+queueUpdate @ hmr.ts:272
+await in queueUpdate (асинхронно)
+(анонимный) @ client.ts:199
+handleMessage @ client.ts:197
+(анонимный) @ client.ts:91
+Показать еще кадров: 7
+Меньше
+Table.tsx?t=1719238894916:57  Uncaught TypeError: Cannot read properties of undefined (reading 'children')
+    at Table (Table.tsx?t=1719238894916:57:46)
+    at renderWithHooks (chunk-EPFY5AXO.js:19006:26)
+    at mountIndeterminateComponent (chunk-EPFY5AXO.js:22384:21)
+    at beginWork (chunk-EPFY5AXO.js:23372:22)
+    at HTMLUnknownElement.callCallback2 (chunk-EPFY5AXO.js:11112:22)
+    at Object.invokeGuardedCallbackDev (chunk-EPFY5AXO.js:11137:24)
+    at invokeGuardedCallback (chunk-EPFY5AXO.js:11171:39)
+    at beginWork$1 (chunk-EPFY5AXO.js:27231:15)
+    at performUnitOfWork (chunk-EPFY5AXO.js:26664:20)
+    at workLoopSync (chunk-EPFY5AXO.js:26603:13)
+Table @ Table.tsx?t=1719238894916:57
+renderWithHooks @ chunk-EPFY5AXO.js:19006
+mountIndeterminateComponent @ chunk-EPFY5AXO.js:22384
+beginWork @ chunk-EPFY5AXO.js:23372
+callCallback2 @ chunk-EPFY5AXO.js:11112
+invokeGuardedCallbackDev @ chunk-EPFY5AXO.js:11137
+invokeGuardedCallback @ chunk-EPFY5AXO.js:11171
+beginWork$1 @ chunk-EPFY5AXO.js:27231
+performUnitOfWork @ chunk-EPFY5AXO.js:26664
+workLoopSync @ chunk-EPFY5AXO.js:26603
+renderRootSync @ chunk-EPFY5AXO.js:26582
+performSyncWorkOnRoot @ chunk-EPFY5AXO.js:26340
+flushSyncCallbacks @ chunk-EPFY5AXO.js:16573
+flushSync @ chunk-EPFY5AXO.js:26425
+scheduleRefresh @ chunk-EPFY5AXO.js:27470
+(анонимный) @ @react-refresh:267
+performReactRefresh @ @react-refresh:256
+setTimeout (асинхронно)
+(анонимный) @ @react-refresh:666
+validateRefreshBoundaryAndEnqueueUpdate @ @react-refresh:707
+(анонимный) @ Table.tsx?t=1719238884500:97
+(анонимный) @ hmr.ts:77
+(анонимный) @ hmr.ts:306
+(анонимный) @ hmr.ts:272
+queueUpdate @ hmr.ts:272
+await in queueUpdate (асинхронно)
+(анонимный) @ client.ts:199
+handleMessage @ client.ts:197
+(анонимный) @ client.ts:91
+Показать еще кадров: 7
+Меньше
+Table.tsx?t=1719238894916:57 undefined false
+Colgroup.tsx:29 (2) [{…}, {…}]
+Table.tsx?t=1719238894916:57  Uncaught TypeError: Cannot read properties of undefined (reading 'children')
+    at Table (Table.tsx?t=1719238894916:57:46)
+    at renderWithHooks (chunk-EPFY5AXO.js:19006:26)
+    at mountIndeterminateComponent (chunk-EPFY5AXO.js:22384:21)
+    at beginWork (chunk-EPFY5AXO.js:23372:22)
+    at HTMLUnknownElement.callCallback2 (chunk-EPFY5AXO.js:11112:22)
+    at Object.invokeGuardedCallbackDev (chunk-EPFY5AXO.js:11137:24)
+    at invokeGuardedCallback (chunk-EPFY5AXO.js:11171:39)
+    at beginWork$1 (chunk-EPFY5AXO.js:27231:15)
+    at performUnitOfWork (chunk-EPFY5AXO.js:26664:20)
+    at workLoopSync (chunk-EPFY5AXO.js:26603:13)
+Table @ Table.tsx?t=1719238894916:57
+renderWithHooks @ chunk-EPFY5AXO.js:19006
+mountIndeterminateComponent @ chunk-EPFY5AXO.js:22384
+beginWork @ chunk-EPFY5AXO.js:23372
+callCallback2 @ chunk-EPFY5AXO.js:11112
+invokeGuardedCallbackDev @ chunk-EPFY5AXO.js:11137
+invokeGuardedCallback @ chunk-EPFY5AXO.js:11171
+beginWork$1 @ chunk-EPFY5AXO.js:27231
+performUnitOfWork @ chunk-EPFY5AXO.js:26664
+workLoopSync @ chunk-EPFY5AXO.js:26603
+renderRootSync @ chunk-EPFY5AXO.js:26582
+recoverFromConcurrentError @ chunk-EPFY5AXO.js:26202
+performSyncWorkOnRoot @ chunk-EPFY5AXO.js:26345
+flushSyncCallbacks @ chunk-EPFY5AXO.js:16573
+flushSync @ chunk-EPFY5AXO.js:26425
+scheduleRefresh @ chunk-EPFY5AXO.js:27470
+(анонимный) @ @react-refresh:267
+performReactRefresh @ @react-refresh:256
+setTimeout (асинхронно)
+(анонимный) @ @react-refresh:666
+validateRefreshBoundaryAndEnqueueUpdate @ @react-refresh:707
+(анонимный) @ Table.tsx?t=1719238884500:97
+(анонимный) @ hmr.ts:77
+(анонимный) @ hmr.ts:306
+(анонимный) @ hmr.ts:272
+queueUpdate @ hmr.ts:272
+await in queueUpdate (асинхронно)
+(анонимный) @ client.ts:199
+handleMessage @ client.ts:197
+(анонимный) @ client.ts:91
+Показать еще кадров: 7
+Меньше
+Table.tsx?t=1719238894916:57 undefined false
+Colgroup.tsx:29 (2) [{…}, {…}]
+chunk-EPFY5AXO.js:21490  The above error occurred in the <Table> component:
+
+    at Table (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/markdown/elements/table/render/component/Table.tsx?t=1719238894916:54:18)
+    at article
+    at ErrorHandler (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/errorHandlers/client/components/ErrorHandler.tsx:17:5)
+    at div
+    at ArticleRenderer (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Article/ArticleRenderer.tsx?t=1719238468939:34:11)
+    at div
+    at ArticleUpdater (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Article/ArticleUpdater/ArticleUpdater.tsx?t=1719238468939:36:11)
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at Article (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Article/Article.tsx?t=1719238468939:43:20)
+    at div
+    at ArticlePage (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ArticlePage/ArticlePage.tsx?t=1719238468939:42:24)
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at ArticleViewContainer (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/views/articleView/ArticleViewContainer.tsx?t=1719238468939:27:42)
+    at div
+    at div
+    at div
+    at ArticleLayout (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/ArticleLayout/ArticleLayout.tsx:31:40)
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at ArticleComponent (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/ArticleLayout/ArticleComponent.tsx:35:11)
+    at div
+    at https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/CatalogLayout.tsx:13:6
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/LeftNavigationIsOpen.tsx:20:21)
+    at CatalogComponent (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/CatalogComponent.tsx?t=1719238468939:36:29)
+    at Router (https://localhost:5173/.vite-cache/deps/wouter.js?v=6d393fec:93:3)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/errorHandlers/client/ErrorConfirmService.tsx?t=1719238468939:24:21)
+    at ErrorBoundary (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/errorHandlers/client/components/ErrorBoundary.tsx?t=1719238468939:28:26)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/CommentCounter.tsx?t=1719238468939:18:21)
+    at OnUpdateAppFuncs (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ContextProviders.tsx?t=1719238468939:245:29)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsFirstLoadService.tsx:14:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/views/articleView/ArticleViewService.tsx?t=1719238468939:24:5)
+    at ViewContextProvider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ContextProviders.tsx?t=1719238468939:254:32)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ArticleTooltip.tsx?t=1719238468939:19:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsEdit.tsx?t=1719238468939:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/markdown/elements/tabs/components/CurrentTabsTagService.tsx:16:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/CatalogProps.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ArticleProps.tsx:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ArticleRef.tsx:14:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsMenuBarOpenService.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/markdown/elements/copyArticles/onLoadResourceService.tsx?t=1719238468939:18:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ModalToOpenService/ModalToOpenService.tsx?t=1719238468939:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/SidebarsIsPin.tsx:19:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ScrollWebkit.tsx:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsOpenMpdal.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/SyncIconService.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/SearchQuery.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsMac.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/Theme/components/ThemeService.tsx?t=1719238468939:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/RefreshPageContext.tsx:16:5)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/PageDataContext.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ApiUrlCreator.tsx:14:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsOfflineService.tsx:15:21)
+    at ContextProviders (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ContextProviders.tsx?t=1719238468939:55:3)
+    at AppContext (https://localhost:5173/src/AppContext.tsx?t=1719238468939:49:23)
+    at App (https://localhost:5173/src/App.tsx?t=1719238468939:34:27)
+
+React will try to recreate this component tree from scratch using the error boundary you provided, ErrorHandler.
+logCapturedError @ chunk-EPFY5AXO.js:21490
+callback @ chunk-EPFY5AXO.js:21536
+callCallback @ chunk-EPFY5AXO.js:18706
+commitUpdateQueue @ chunk-EPFY5AXO.js:18723
+commitLayoutEffectOnFiber @ chunk-EPFY5AXO.js:24535
+commitLayoutMountEffects_complete @ chunk-EPFY5AXO.js:25446
+commitLayoutEffects_begin @ chunk-EPFY5AXO.js:25435
+commitLayoutEffects @ chunk-EPFY5AXO.js:25386
+commitRootImpl @ chunk-EPFY5AXO.js:26819
+commitRoot @ chunk-EPFY5AXO.js:26743
+performSyncWorkOnRoot @ chunk-EPFY5AXO.js:26361
+flushSyncCallbacks @ chunk-EPFY5AXO.js:16573
+flushSync @ chunk-EPFY5AXO.js:26425
+scheduleRefresh @ chunk-EPFY5AXO.js:27470
+(анонимный) @ @react-refresh:267
+performReactRefresh @ @react-refresh:256
+setTimeout (асинхронно)
+(анонимный) @ @react-refresh:666
+validateRefreshBoundaryAndEnqueueUpdate @ @react-refresh:707
+(анонимный) @ Table.tsx?t=1719238884500:97
+(анонимный) @ hmr.ts:77
+(анонимный) @ hmr.ts:306
+(анонимный) @ hmr.ts:272
+queueUpdate @ hmr.ts:272
+await in queueUpdate (асинхронно)
+(анонимный) @ client.ts:199
+handleMessage @ client.ts:197
+(анонимный) @ client.ts:91
+Показать еще кадров: 7
+Меньше
+Table.tsx?t=1719238899939:57 undefined false
+Colgroup.tsx:29 {$$typeof: Symbol(react.element), type: 'tbody', key: null, ref: null, props: {…}, …}
+Table.tsx?t=1719238899939:57 undefined false
+Colgroup.tsx:29 (2) [{…}, {…}]
+Table.tsx?t=1719238906824:57 (3) [{…}, {…}, {…}]0: $$typeof: Symbol(react.element)key: nullprops: {children: Array(2)}ref: nulltype: "tr"_owner: FiberNode {tag: 0, key: null, stateNode: null, elementType: ƒ, type: ƒ, …}_store: {validated: true}_self: null_source: null[[Prototype]]: Object1: {$$typeof: Symbol(react.element), type: 'tr', key: null, ref: null, props: {…}, …}2: {$$typeof: Symbol(react.element), type: 'tr', key: null, ref: null, props: {…}, …}length: 3[[Prototype]]: Array(0) false
+Colgroup.tsx:29 {$$typeof: Symbol(react.element), type: 'tbody', key: null, ref: null, props: {…}, …}
+Table.tsx?t=1719238906824:57 undefined false
+Colgroup.tsx:29 (2) [{…}, {…}]
+Table.tsx?t=1719238924137:57 undefined false
+Colgroup.tsx:29 {$$typeof: Symbol(react.element), type: 'tbody', key: null, ref: null, props: {…}, …}
+Table.tsx?t=1719238924137:57 undefined false
+Colgroup.tsx:29 (2) [{…}, {…}]
+Table.tsx?t=1719238932413:57 undefined false
+Colgroup.tsx:29 {$$typeof: Symbol(react.element), type: 'tbody', key: null, ref: null, props: {…}, …}
+Table.tsx?t=1719238932413:57 undefined false
+Colgroup.tsx:29 (2) [{…}, {…}]
+Table.tsx?t=1719238942840:57 (3) [{…}, {…}, {…}] false
+Colgroup.tsx:29 {$$typeof: Symbol(react.element), type: 'tbody', key: null, ref: null, props: {…}, …}
+Table.tsx?t=1719238942840:57 undefined false
+Colgroup.tsx:29 (2) [{…}, {…}]
+Table.tsx?t=1719239030904:57 undefined false
+Colgroup.tsx:29 {$$typeof: Symbol(react.element), type: 'tbody', key: null, ref: null, props: {…}, …}
+Table.tsx?t=1719239030904:57 undefined false
+Colgroup.tsx:29 (2) [{…}, {…}]
+Table.tsx?t=1719239036759:57 {$$typeof: Symbol(react.element), type: 'tr', key: null, ref: null, props: {…}, …} false
+Colgroup.tsx:29 {$$typeof: Symbol(react.element), type: 'tbody', key: null, ref: null, props: {…}, …}$$typeof: Symbol(react.element)key: nullprops: children: Array(3)0: {$$typeof: Symbol(react.element), type: 'tr', key: null, ref: null, props: {…}, …}1: {$$typeof: Symbol(react.element), type: 'tr', key: null, ref: null, props: {…}, …}2: {$$typeof: Symbol(react.element), type: 'tr', key: null, ref: null, props: {…}, …}length: 3[[Prototype]]: Array(0)[[Prototype]]: Objectref: nulltype: "tbody"_owner: FiberNode {tag: 0, key: null, stateNode: null, elementType: ƒ, type: ƒ, …}_store: {validated: true}_self: null_source: null[[Prototype]]: Object
+Table.tsx?t=1719239036759:57 undefined false
+Colgroup.tsx:29 (2) [{…}, {…}]
+Table.tsx?t=1719239052871:57 (2) [{…}, {…}] false
+Colgroup.tsx:29 {$$typeof: Symbol(react.element), type: 'tbody', key: null, ref: null, props: {…}, …}$$typeof: Symbol(react.element)key: nullprops: {children: Array(3)}ref: nulltype: "tbody"_owner: FiberNode {tag: 0, key: null, stateNode: null, elementType: ƒ, type: ƒ, …}_store: {validated: true}_self: null_source: null[[Prototype]]: Object
+Table.tsx?t=1719239052871:57 undefined false
+Colgroup.tsx:29 (2) [{…}, {…}]
+Table.tsx?t=1719239064881:57 (2) [{…}, {…}] false
+Colgroup.tsx:29 (2) [{…}, {…}]
+Table.tsx?t=1719239064881:57 undefined false
+Colgroup.tsx:29 undefined
+Colgroup.tsx:29 undefined
+Colgroup.tsx:30  Uncaught TypeError: Cannot read properties of undefined (reading 'childCount')
+    at Colgroup (Colgroup.tsx:30:97)
+    at renderWithHooks (chunk-EPFY5AXO.js:19006:26)
+    at updateFunctionComponent (chunk-EPFY5AXO.js:22040:28)
+    at beginWork (chunk-EPFY5AXO.js:23382:22)
+    at HTMLUnknownElement.callCallback2 (chunk-EPFY5AXO.js:11112:22)
+    at Object.invokeGuardedCallbackDev (chunk-EPFY5AXO.js:11137:24)
+    at invokeGuardedCallback (chunk-EPFY5AXO.js:11171:39)
+    at beginWork$1 (chunk-EPFY5AXO.js:27231:15)
+    at performUnitOfWork (chunk-EPFY5AXO.js:26664:20)
+    at workLoopSync (chunk-EPFY5AXO.js:26603:13)
+Colgroup @ Colgroup.tsx:30
+renderWithHooks @ chunk-EPFY5AXO.js:19006
+updateFunctionComponent @ chunk-EPFY5AXO.js:22040
+beginWork @ chunk-EPFY5AXO.js:23382
+callCallback2 @ chunk-EPFY5AXO.js:11112
+invokeGuardedCallbackDev @ chunk-EPFY5AXO.js:11137
+invokeGuardedCallback @ chunk-EPFY5AXO.js:11171
+beginWork$1 @ chunk-EPFY5AXO.js:27231
+performUnitOfWork @ chunk-EPFY5AXO.js:26664
+workLoopSync @ chunk-EPFY5AXO.js:26603
+renderRootSync @ chunk-EPFY5AXO.js:26582
+performSyncWorkOnRoot @ chunk-EPFY5AXO.js:26340
+flushSyncCallbacks @ chunk-EPFY5AXO.js:16573
+flushSync @ chunk-EPFY5AXO.js:26425
+scheduleRefresh @ chunk-EPFY5AXO.js:27470
+(анонимный) @ @react-refresh:267
+performReactRefresh @ @react-refresh:256
+setTimeout (асинхронно)
+(анонимный) @ @react-refresh:666
+validateRefreshBoundaryAndEnqueueUpdate @ @react-refresh:707
+(анонимный) @ Table.tsx?t=1719239052871:97
+(анонимный) @ hmr.ts:77
+(анонимный) @ hmr.ts:306
+(анонимный) @ hmr.ts:272
+queueUpdate @ hmr.ts:272
+await in queueUpdate (асинхронно)
+(анонимный) @ client.ts:199
+handleMessage @ client.ts:197
+(анонимный) @ client.ts:91
+Показать еще кадров: 7
+Меньше
+Table.tsx?t=1719239064881:57 (2) [{…}, {…}] false
+Colgroup.tsx:29 (2) [{…}, {…}]
+Table.tsx?t=1719239064881:57 undefined false
+Colgroup.tsx:29 undefined
+Colgroup.tsx:29 undefined
+Colgroup.tsx:30  Uncaught TypeError: Cannot read properties of undefined (reading 'childCount')
+    at Colgroup (Colgroup.tsx:30:97)
+    at renderWithHooks (chunk-EPFY5AXO.js:19006:26)
+    at updateFunctionComponent (chunk-EPFY5AXO.js:22040:28)
+    at beginWork (chunk-EPFY5AXO.js:23382:22)
+    at HTMLUnknownElement.callCallback2 (chunk-EPFY5AXO.js:11112:22)
+    at Object.invokeGuardedCallbackDev (chunk-EPFY5AXO.js:11137:24)
+    at invokeGuardedCallback (chunk-EPFY5AXO.js:11171:39)
+    at beginWork$1 (chunk-EPFY5AXO.js:27231:15)
+    at performUnitOfWork (chunk-EPFY5AXO.js:26664:20)
+    at workLoopSync (chunk-EPFY5AXO.js:26603:13)
+Colgroup @ Colgroup.tsx:30
+renderWithHooks @ chunk-EPFY5AXO.js:19006
+updateFunctionComponent @ chunk-EPFY5AXO.js:22040
+beginWork @ chunk-EPFY5AXO.js:23382
+callCallback2 @ chunk-EPFY5AXO.js:11112
+invokeGuardedCallbackDev @ chunk-EPFY5AXO.js:11137
+invokeGuardedCallback @ chunk-EPFY5AXO.js:11171
+beginWork$1 @ chunk-EPFY5AXO.js:27231
+performUnitOfWork @ chunk-EPFY5AXO.js:26664
+workLoopSync @ chunk-EPFY5AXO.js:26603
+renderRootSync @ chunk-EPFY5AXO.js:26582
+recoverFromConcurrentError @ chunk-EPFY5AXO.js:26202
+performSyncWorkOnRoot @ chunk-EPFY5AXO.js:26345
+flushSyncCallbacks @ chunk-EPFY5AXO.js:16573
+flushSync @ chunk-EPFY5AXO.js:26425
+scheduleRefresh @ chunk-EPFY5AXO.js:27470
+(анонимный) @ @react-refresh:267
+performReactRefresh @ @react-refresh:256
+setTimeout (асинхронно)
+(анонимный) @ @react-refresh:666
+validateRefreshBoundaryAndEnqueueUpdate @ @react-refresh:707
+(анонимный) @ Table.tsx?t=1719239052871:97
+(анонимный) @ hmr.ts:77
+(анонимный) @ hmr.ts:306
+(анонимный) @ hmr.ts:272
+queueUpdate @ hmr.ts:272
+await in queueUpdate (асинхронно)
+(анонимный) @ client.ts:199
+handleMessage @ client.ts:197
+(анонимный) @ client.ts:91
+Показать еще кадров: 7
+Меньше
+chunk-EPFY5AXO.js:21490  The above error occurred in the <Colgroup> component:
+
+    at Colgroup (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/markdown/elements/table/edit/components/Colgroup.tsx:28:21)
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at table
+    at Table (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/markdown/elements/table/render/component/Table.tsx?t=1719239064881:54:18)
+    at article
+    at ErrorHandler (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/errorHandlers/client/components/ErrorHandler.tsx:17:5)
+    at div
+    at ArticleRenderer (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Article/ArticleRenderer.tsx?t=1719238468939:34:11)
+    at div
+    at ArticleUpdater (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Article/ArticleUpdater/ArticleUpdater.tsx?t=1719238468939:36:11)
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at Article (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Article/Article.tsx?t=1719238468939:43:20)
+    at div
+    at ArticlePage (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ArticlePage/ArticlePage.tsx?t=1719238468939:42:24)
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at ArticleViewContainer (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/views/articleView/ArticleViewContainer.tsx?t=1719238468939:27:42)
+    at div
+    at div
+    at div
+    at ArticleLayout (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/ArticleLayout/ArticleLayout.tsx:31:40)
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at ArticleComponent (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/ArticleLayout/ArticleComponent.tsx:35:11)
+    at div
+    at https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/CatalogLayout.tsx:13:6
+    at https://localhost:5173/.vite-cache/deps/chunk-YPEPWTRY.js?v=6d393fec:82:49
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/LeftNavigationIsOpen.tsx:20:21)
+    at CatalogComponent (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/Layouts/CatalogLayout/CatalogComponent.tsx?t=1719238468939:36:29)
+    at Router (https://localhost:5173/.vite-cache/deps/wouter.js?v=6d393fec:93:3)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/errorHandlers/client/ErrorConfirmService.tsx?t=1719238468939:24:21)
+    at ErrorBoundary (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/errorHandlers/client/components/ErrorBoundary.tsx?t=1719238468939:28:26)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/CommentCounter.tsx?t=1719238468939:18:21)
+    at OnUpdateAppFuncs (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ContextProviders.tsx?t=1719238468939:245:29)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsFirstLoadService.tsx:14:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/views/articleView/ArticleViewService.tsx?t=1719238468939:24:5)
+    at ViewContextProvider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ContextProviders.tsx?t=1719238468939:254:32)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ArticleTooltip.tsx?t=1719238468939:19:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsEdit.tsx?t=1719238468939:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/markdown/elements/tabs/components/CurrentTabsTagService.tsx:16:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/CatalogProps.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ArticleProps.tsx:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ArticleRef.tsx:14:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsMenuBarOpenService.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/markdown/elements/copyArticles/onLoadResourceService.tsx?t=1719238468939:18:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ModalToOpenService/ModalToOpenService.tsx?t=1719238468939:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/SidebarsIsPin.tsx:19:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ScrollWebkit.tsx:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsOpenMpdal.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/SyncIconService.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/SearchQuery.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsMac.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/extensions/Theme/components/ThemeService.tsx?t=1719238468939:17:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/RefreshPageContext.tsx:16:5)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/PageDataContext.tsx:15:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/ApiUrlCreator.tsx:14:21)
+    at Provider (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/ui-logic/ContextServices/IsOfflineService.tsx:15:21)
+    at ContextProviders (https://localhost:5173/@fs/C:/Users/vasiliy.grigorev/Documents/doc-reader/core/components/ContextProviders.tsx?t=1719238468939:55:3)
+    at AppContext (https://localhost:5173/src/AppContext.tsx?t=1719238468939:49:23)
+    at App (https://localhost:5173/src/App.tsx?t=1719238468939:34:27)
+
+React will try to recreate this component tree from scratch using the error boundary you provided, ErrorHandler.
+logCapturedError @ chunk-EPFY5AXO.js:21490
+callback @ chunk-EPFY5AXO.js:21536
+callCallback @ chunk-EPFY5AXO.js:18706
+commitUpdateQueue @ chunk-EPFY5AXO.js:18723
+commitLayoutEffectOnFiber @ chunk-EPFY5AXO.js:24535
+commitLayoutMountEffects_complete @ chunk-EPFY5AXO.js:25446
+commitLayoutEffects_begin @ chunk-EPFY5AXO.js:25435
+commitLayoutEffects @ chunk-EPFY5AXO.js:25386
+commitRootImpl @ chunk-EPFY5AXO.js:26819
+commitRoot @ chunk-EPFY5AXO.js:26743
+performSyncWorkOnRoot @ chunk-EPFY5AXO.js:26361
+flushSyncCallbacks @ chunk-EPFY5AXO.js:16573
+flushSync @ chunk-EPFY5AXO.js:26425
+scheduleRefresh @ chunk-EPFY5AXO.js:27470
+(анонимный) @ @react-refresh:267
+performReactRefresh @ @react-refresh:256
+setTimeout (асинхронно)
+(анонимный) @ @react-refresh:666
+validateRefreshBoundaryAndEnqueueUpdate @ @react-refresh:707
+(анонимный) @ Table.tsx?t=1719239052871:97
+(анонимный) @ hmr.ts:77
+(анонимный) @ hmr.ts:306
+(анонимный) @ hmr.ts:272
+queueUpdate @ hmr.ts:272
+await in queueUpdate (асинхронно)
+(анонимный) @ client.ts:199
+handleMessage @ client.ts:197
+(анонимный) @ client.ts:91
+Показать еще кадров: 7
+Меньше
+Table.tsx:35 (2) [{…}, {…}] false
+Colgroup.tsx:29 {$$typeof: Symbol(react.element), type: 'tbody', key: null, ref: null, props: {…}, …}
+Table.tsx:35 undefined false
+Colgroup.tsx:29 (2) [{…}, {…}]
+Colgroup.tsx?t=1719239083761:29 undefined
+Colgroup.tsx?t=1719239083761:29 undefined
+Colgroup.tsx:7 {$$typeof: Symbol(react.element), type: 'tbody', key: null, ref: null, props: {…}, …}$$typeof: Symbol(react.element)key: nullprops: {children: Array(3)}ref: nulltype: "tbody"_owner: FiberNode {tag: 0, key: null, stateNode: null, elementType: ƒ, type: ƒ, …}_store: {validated: true}_self: null_source: null[[Prototype]]: Object
+Colgroup.tsx:7 (2) [{…}, {…}]
+Colgroup.tsx:7 {$$typeof: Symbol(react.element), type: 'tbody', key: null, ref: null, props: {…}, …}
+Colgroup.tsx:7 (2) [{…}, {…}]
