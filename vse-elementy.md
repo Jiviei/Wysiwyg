@@ -15,6 +15,8 @@ title: Все элементы
 
    -  Список
 
+      -   
+
 #### Bullet
 
 1. Простой
@@ -61,13 +63,15 @@ title: Все элементы
 
 #### Video
 
-[video:https://www.youtube.com/watch?v=zRPTKIGjbLI:]
+[video:https://www.youtube.com/watch?v=zRPTKIGjbLI:Подпись к видео]
 
 #### BlockMd
 
 [color:red]
 
-Цвет
+Цветной
+
+Блок
 
 [/color]
 
