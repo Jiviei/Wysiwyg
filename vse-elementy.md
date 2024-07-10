@@ -51,7 +51,7 @@ title: Все элементы
 
 [plant-uml:./vse-elementy.puml]
 
-#### Snippet
+#### Snippet фыв
 
 [snippet:snippet]
 
