@@ -1,6 +1,6 @@
 ---
 order: 1
-title: ""
+title: Все элементы
 ---
 
 ## Block
@@ -33,23 +33,23 @@ title: ""
 
 #### Image
 
-![](./new-article.png)
+![](./vse-elementy.png)
 
 #### OpenApi
 
-[openapi:./new-article.yaml:true]
+[openapi:./vse-elementy.yaml:true]
 
 #### Drawio
 
-[drawio:./new-article.svg:]
+[drawio:./vse-elementy.svg:]
 
 #### Mermaid
 
-[mermaid:./new-article.mermaid]
+[mermaid:./vse-elementy.mermaid]
 
 #### PlantUML
 
-[plant-uml:./new-article.puml]
+[plant-uml:./vse-elementy.puml]
 
 #### Snippet
 
@@ -133,7 +133,7 @@ title: ""
 
 #### File
 
-[localhost-1718261246743.log](./localhost-1718261246743.log)
+[localhost-1718261246743.log](./localhost-1718261246743-2.log)
 
 #### Link
 
