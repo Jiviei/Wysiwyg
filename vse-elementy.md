@@ -97,11 +97,11 @@ title: Все элементы
 
    Сложная
 
-*  {% isHeader=true %}
+*  {% colwidth=[303] isHeader=true %}
 
    
 
-*  {% isHeader=true %}
+*  {% colwidth=[200] isHeader=true %}
 
    заголовок
 
@@ -111,7 +111,7 @@ title: Все элементы
 
    markdown
 
-*  {% colspan=2 rowspan=2 %}
+*  {% colspan=2 rowspan=2 colwidth=[303,200] %}
 
    тело
 
