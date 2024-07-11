@@ -53,6 +53,10 @@ title: Все элементы
 
 [mermaid:./_index.mermaid:подпись к Merminaid]
 
+
+
+[mermaid:./_index-2.mermaid:подпись к другой Merminaid]
+
 #### PlantUML
 
 [plant-uml:./_index.puml:подпись к PlantUML]
