@@ -39,23 +39,23 @@ title: Все элементы
 
 #### Image
 
-![](./vse-elementy.png)
+[image:./_index.png:::15.4589,9.89583,84.5411,90.1042:]
 
 #### OpenApi
 
-[openapi:./vse-elementy.yaml:true]
+[openapi:./_index.yaml:true]
 
 #### Drawio
 
-[drawio:./vse-elementy.svg:]
+[drawio:./_index.svg:]
 
 #### Mermaid
 
-[mermaid:./vse-elementy.mermaid]
+[mermaid:./_index.mermaid]
 
 #### PlantUML
 
-[plant-uml:./vse-elementy.puml]
+[plant-uml:./_index.puml]
 
 #### Snippet
 
@@ -202,5 +202,3 @@ $$ A $$
 #### InlineMd
 
 $a$ [alfa]
-
-
