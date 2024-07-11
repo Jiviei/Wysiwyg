@@ -51,11 +51,11 @@ title: Все элементы
 
 #### Mermaid
 
-[mermaid:./_index.mermaid]
+[mermaid:./_index.mermaid:подпись к Merminaid]
 
 #### PlantUML
 
-[plant-uml:./_index.puml]
+[plant-uml:./_index.puml:подпись к PlantUML]
 
 #### Snippet
 
@@ -63,7 +63,7 @@ title: Все элементы
 
 #### Video
 
-[video:https://www.youtube.com/watch?v=zRPTKIGjbLI:Подпись к видео]
+[video:https://www.youtube.com/watch?v=c6B86zT-fpc&t=4434s:Подпись к видео]
 
 #### BlockMd
 
