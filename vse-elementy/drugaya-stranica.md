@@ -5,4 +5,6 @@ title: Другая страница
 
 ## Другая страница
 
-[mermaid:./drugaya-stranica.mermaid]
+[plant-uml:./drugaya-stranica.puml]
+
+
