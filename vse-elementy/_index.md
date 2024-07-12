@@ -57,27 +57,13 @@ title: Все элементы
 
 [mermaid:./_index-2.mermaid:подпись к другой Merminaid]
 
-#### Ts-diagram
-
-```ts-diagram
-interface DocReader {
-	catalogs: Catalog[];
-}
-
-interface Catalog {
-	articles: Article[];
-}
-
-interface Article {
-	title: string;
-	content: string;
-}
-```
-
-
 #### PlantUML
 
 [plant-uml:./_index.puml:подпись к PlantUML]
+
+
+
+[plant-uml:./_index-2.puml:подпись к PlantUML]
 
 #### Snippet
 
