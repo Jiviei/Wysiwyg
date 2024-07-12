@@ -8,3 +8,5 @@ title: Другая страница
 [plant-uml:./drugaya-stranica.puml]
 
 ![](./drugaya-stranica.png)
+
+
