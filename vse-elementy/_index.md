@@ -201,7 +201,7 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 
 #### Link
 
-[Gramax](https://ics-it.gram.ax/)
+[Gramax](https://ics-it.gram.ax/) йцуйцуцйу
 
 #### Comment
 
