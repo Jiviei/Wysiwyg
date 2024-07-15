@@ -9,4 +9,4 @@ title: Другая страница
 
 ![](./drugaya-stranica.png)
 
-
+q[we]()
