@@ -49,7 +49,9 @@ title: Все элементы
 
 #### Drawio
 
-[drawio:./_index.svg:подпись к drawio]
+
+
+[drawio:./new-article.svg:подпись к drawio]
 
 #### Mermaid
 
