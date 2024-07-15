@@ -219,4 +219,20 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 
 #### InlineMd
 
-$a$ [alfa]
+**Formula**
+
+$a$
+
+[alfa] [beta]
+
+[cmd:Cmd:smile:yellow]
+
+[color:blue]Color blue[/color]
+
+[issue:issue]
+
+[kbd:kbd]
+
+[who:who] [when:when]
+
+
