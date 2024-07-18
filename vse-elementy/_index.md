@@ -41,7 +41,7 @@ title: Все элементы
 
 #### Image
 
-[image:./_index.png::Подпись к рисунку:15.4589,9.89583,84.5411,90.1042:annotation,56.8571,17.6241,,bottom-right,&square,61.8393,45.3637,34.2857,34.6821,,top-left]
+[image:./_index.png::Подпись к рисунку:15.4589,9.89583,84.5411,90.1042:annotation,56.8571,17.6241,,bottom-right,&square,61.8393,45.3637,34.2857,34.6821,аннотация,top-left]
 
 #### OpenApi
 
@@ -76,6 +76,8 @@ title: Все элементы
 #### Video
 
 [video:https://www.youtube.com/watch?v=c6B86zT-fpc&t=4434s:Подпись к видео]
+
+[video:https://rutube.ru/vieo/f01e5419c27dbc7de93185d021883be9/:]
 
 #### BlockMd
 
@@ -197,7 +199,7 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 
 #### File
 
-[localhost-1718261246743.log](./localhost-1718261246743-2.log)
+[localhost-1718261246743.log](./localhost-1718261246743-2)
 
 #### Link
 
