@@ -236,3 +236,7 @@ $a$
 [kbd:kbd]
 
 [who:who] [when:when]
+
+### Fn
+
+[fn:ics.account:Иван Иванов] 
