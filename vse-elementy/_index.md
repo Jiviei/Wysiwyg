@@ -181,6 +181,10 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 
 [/tabs]
 
+#### Include
+
+[include:./drugaya-stranica]
+
 ## Inline
 
 ### Content
@@ -239,4 +243,4 @@ $a$
 
 ### Fn
 
-[fn:ics.account:Иван Иванов] 
+[fn:ics.account:Иван Иванов]
