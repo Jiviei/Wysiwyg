@@ -10,3 +10,8 @@ title: Другая страница
 ![](./drugaya-stranica.png)
 
 q[we]()
+
+```plant-uml:title
+@startuml
+Bob -> Alice : hello@enduml
+```
