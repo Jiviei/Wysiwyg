@@ -22,3 +22,5 @@ title: Другая страница
 [/tab]
 
 [/tabs]
+
+[ts-diagram:./resources/ts-diagram.ts]
