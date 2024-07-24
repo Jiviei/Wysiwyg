@@ -3,15 +3,22 @@ order: 1
 title: Другая страница
 ---
 
-## Другая страница
+[openapi:./_index-2.yaml:true]
 
-[plant-uml:./drugaya-stranica.puml]
+[mermaid:./_index-3.mermaid:подпись к Merminaid]
 
-![](./drugaya-stranica.png)
+[tabs]
 
-q[we]()
+[tab:Заголовок_1::]
 
-```plant-uml:title
-@startuml
-Bob -> Alice : hello@enduml
-```
+Тело\_1
+
+[/tab]
+
+[tab:Заголовок_2::]
+
+Тело\_2asdasd
+
+[/tab]
+
+[/tabs]
