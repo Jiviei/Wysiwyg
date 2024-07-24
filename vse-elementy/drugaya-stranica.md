@@ -23,4 +23,6 @@ title: Другая страница
 
 [/tabs]
 
+
+
 [ts-diagram:./resources/ts-diagram.ts]
