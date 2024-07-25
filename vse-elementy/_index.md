@@ -65,9 +65,14 @@ title: Все элементы
 
 [plant-uml:./_index.puml:подпись к PlantUML]
 
-
-
-[plant-uml:./_index-2.puml:подпись к PlantUML]
+```plant-uml
+@startuml
+	Третий-->Первый: че ты, Первый?
+	Первый-->Второй: че ты, Третий?
+	Первый->Второй: че ты, Первый?
+	Второй->Первый: че ты, Второй?
+@enduml
+```
 
 #### Snippet
 
@@ -203,7 +208,7 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 
 #### File
 
-[localhost-1718261246743.log](./localhost-1718261246743-2.log)
+[localhost-1718261246743.log](./localhost-1718261246743-2)
 
 #### Link
 
