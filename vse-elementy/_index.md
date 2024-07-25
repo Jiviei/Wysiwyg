@@ -65,7 +65,7 @@ title: Все элементы
 
 [plant-uml:./_index.puml:подпись к PlantUML]
 
-```plant-uml
+```plant-uml:подпись к PlantUML
 @startuml
 	Третий-->Первый: че ты, Первый?
 	Первый-->Второй: че ты, Третий?
