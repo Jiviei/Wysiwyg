@@ -31,4 +31,6 @@ title: Другая страница
 
 [ссылка](./../ge/ssy/ssylka)
 
-[ссылка index](./../_index)
+[ссылка index](./../_index/asd/_index)
+
+[ccskrf](./../_index/_index/new-article/_index-2)
