@@ -26,3 +26,9 @@ title: Другая страница
 
 
 [ts-diagram:./resources/ts-diagram.ts]
+
+[ссылка](./_index#openapi)
+
+[ссылка](./../ge/ssy/ssylka)
+
+[ссылка index](./../_index)
