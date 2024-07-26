@@ -35,8 +35,6 @@ title: Все элементы
 
 #### Paragraph
 
-
-
 ### NoContent
 
 #### Image
@@ -49,15 +47,11 @@ title: Все элементы
 
 #### Drawio
 
-
-
 [drawio:./new-article.svg:подпись к drawio]
 
 #### Mermaid
 
 [mermaid:./_index.mermaid:подпись к Merminaid]
-
-
 
 [mermaid:./_index-2.mermaid:подпись к другой Merminaid]
 
@@ -222,7 +216,7 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 
 #### Icon
 
-[icon:smile]
+[icon:smile][icon:address-svgrepo-com]
 
 #### InlineCode
 
@@ -244,7 +238,7 @@ $a$
 
 [kbd:kbd]
 
-[who:who] [when:when]
+[who:who] [when:when]ф
 
 ### Fn
 
