@@ -76,9 +76,17 @@ title: Все элементы
 
 [video:https://www.youtube.com/watch?v=c6B86zT-fpc&t=4434s:Подпись к видео]
 
+[video:https://youtu.be/c6B86zT-fpc:]
+
 [video:https://rutube.ru/vieo/f01e5419c27dbc7de93185d021883be9/:]
 
-#### BlockMd
+[video:https://drive.google.com/file/d/1RO9qIF_z1dQmJUKCgb-YaxdH5AaD3z9R/view?usp=drive_link:]
+
+[video:https://mega.nz/file/CMVhFbBA#Isf5Yk5fVO2lPl_loeE_6C5OJtsDpRaq54BAeJ1u2NU:]
+
+[video:https://www.dropbox.com/scl/fi/g5p98tguhiq94ou4rp0jd/Gramax-2024-07-29-14-41-30.mp4?rlkey=ig5lqyy9kkg2b6om583x4hj1j&st=przpthrx&dl=0:]
+
+BlockMd
 
 **Formula**
 
@@ -202,7 +210,7 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 
 #### File
 
-[localhost-1718261246743.log](./localhost-1718261246743-2.log)
+[localhost-1718261246743.log](./localhost-1718261246743-2)
 
 #### Link
 
