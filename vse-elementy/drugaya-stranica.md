@@ -39,5 +39,4 @@ title: Другая страница
 
 q
 
-
-[icon]
+[icon:][icon:address-svgrepo-com]
