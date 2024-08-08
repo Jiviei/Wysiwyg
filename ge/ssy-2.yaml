@@ -1,0 +1,30 @@
+openapi: 3.0.0
+servers: 
+  - url: https://api.languagetoolplus.com/v2/
+paths:
+  /check:
+    get:
+      tags: 
+        - Example
+      summary: get a list of catalogs
+      parameters:
+        - name: text
+          in: query
+          required: true
+          description: The ID of the catalog to retrieve navigation for.
+          schema:
+            type: string
+        - name: language
+          in: query
+          required: true
+          description: The ID of the catalog to retrieve navigation for.
+          schema:
+            type: string
+      responses:
+        '200':
+          description: |-
+            200 response
+          content:
+            application/json:
+              schema:
+                type: string
