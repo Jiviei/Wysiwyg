@@ -1,0 +1,3 @@
+<img
+  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVvYYxeqPwprBCgr0cwKLcEP1343uZUiSxug&s"
+  onload="alert('xss')" />
