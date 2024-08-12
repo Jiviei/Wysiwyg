@@ -11,4 +11,4 @@ title: ссылка 3
 
 [openapi:./ssy-2.yaml:true]
 
-[icon:address-svgrepo-com]
+[icon:bank-svgrepo-com][icon:bank-svgrepo-com][icon:address-svgrepo-com][icon:address-svgrepo-com][icon:bank-svgrepo-com]

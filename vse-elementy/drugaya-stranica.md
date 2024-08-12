@@ -39,4 +39,6 @@ title: Другая страница
 
 q
 
-[icon:][icon:address-svgrepo-com]
+[icon:bank-svgrepo-com:green][icon:address-svgrepo][icon:bank-svgrepo-com:blue]
+
+[icon:a-arrow-down:red]
