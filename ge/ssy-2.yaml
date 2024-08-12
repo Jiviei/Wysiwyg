@@ -9,7 +9,7 @@ info:
     email: ekaterina.pavlova@gram.ax
 
 servers:
-  - url: https://localhost:5173
+  - url: http://localhost:5173
     description: Тестовый докпортал
 
 tags:
