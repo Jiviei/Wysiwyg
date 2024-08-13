@@ -88,7 +88,7 @@ paths:
           description: ID статьи
           schema:
             type: string
-            pattern: '^[a-zA-Z0-9-_/]+\.md$'
+            pattern: '^[a-zA-Z0-9-_/]+$'
       responses:
         "200":
           description: Успешный ответ
