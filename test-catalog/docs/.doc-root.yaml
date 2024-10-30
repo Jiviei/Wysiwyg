@@ -1,0 +1,22 @@
+title: Автотест
+logo: logo.svg
+logo_dark: logo_dark.svg
+group: products
+order: 1
+code: test
+lang: ru
+description: Для автотестирования
+description_en: Autotests
+style: blue
+relatedLinks:
+    - url: https://play.google.com/store/apps/details?id=ru.ics_it.quiz
+      title: App in Google Play for Android
+      icon: google-play
+      iconPrefix: fab
+terms:
+   md:
+        title: markdown # Необязательное. Отображается в статье на месте термина (если не указано, то отображается код термина)
+        summary: Markdown # Обязательное. Отображается при наведении мышки на термин.
+        description: облегчённый *язык разметки*, созданный с целью написания наиболее читаемого и удобного для правки текста, но пригодного для преобразования в языки для продвинутых публикаций. # Необязательное. Текст в формате markdown, отображается ниже summary.
+        url: https://ru.wikipedia.org/wiki/Markdown # Необязательно. Ссылка на подробное описание термина. Может быть относительной или абсолютной.
+sharePointDirectory: test
