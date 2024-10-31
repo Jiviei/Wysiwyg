@@ -600,13 +600,21 @@ body {
 }
 </style>
   <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const baseUrl = window.location.pathname.replace(window.__INITIAL_DATA__.data.articlePageData.articleProps.pathname, "");
+      const baseElement = document.createElement("base");
+      baseElement.href = baseUrl;
+      document.head.appendChild(baseElement);
+    });
+  </script>
+  <script>
     const global = {};
   </script>
   <script src="/data.js"></script>
   <script>
     <!--app-data-->
   </script>
-  <script type="module" crossorigin src="/assets/index-CfTbYxgx.js"></script>
+  <script type="module" crossorigin src="/assets/index-Q-DM1w0A.js"></script>
   <link rel="stylesheet" crossorigin href="/assets/index-Bakm3vtb.css">
 </head>
 
