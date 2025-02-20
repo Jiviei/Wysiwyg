@@ -42,7 +42,7 @@ private: true
 
 #### Image
 
-[image:./_index.png::Подпись к рисунку:15.4589,9.89583,84.5411,90.1042:annotation,56.8571,17.6241,,bottom-right,&square,61.8393,45.3637,34.2857,34.6821,аннотация,top-left]
+[image:./_index.png::Подпись к рисунку:15.4589,9.89583,84.5411,90.1042::annotation,56.8571,17.6241,,bottom-right,&square,61.8393,45.3637,34.2857,34.6821,аннотация,top-left:]
 
 #### OpenApi
 
@@ -50,7 +50,7 @@ private: true
 
 #### Drawio
 
-[drawio:./new-article.svg:подпись к drawio]
+[drawio:./new-article.svg:подпись к drawio::]
 
 #### Mermaid
 
@@ -129,27 +129,23 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 
 |
 
-{% table %}
+{% table header="row" %}
 
 ---
 
-*  {% isHeader=true %}
+*  Сложная
 
-   Сложная
-
-*  {% colwidth=[303] isHeader=true %}
+*  {% colwidth=[303] %}
 
    
 
-*  {% colwidth=[200] isHeader=true %}
+*  {% colwidth=[200] %}
 
    заголовок
 
 ---
 
-*  {% isHeader=true %}
-
-   markdown
+*  markdown
 
 *  {% colspan=2 rowspan=2 colwidth=[303,200] %}
 
@@ -159,9 +155,7 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 
 ---
 
-*  {% isHeader=true %}
-
-   таблица
+*  таблица
 
 {% /table %}
 
