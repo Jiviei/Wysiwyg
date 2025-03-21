@@ -77,7 +77,7 @@ private: true
 
 #### Video
 
-<video path="https://www.youtube.com/watch?v=c6B86zT-fpc&t=4434s" title="Подпись к видео"/>
+<!-- <video path="https://www.youtube.com/watch?v=c6B86zT-fpc&t=4434s" title="Подпись к видео"/>
 
 <video path="https://youtu.be/c6B86zT-fpc"/>
 
@@ -87,7 +87,7 @@ private: true
 
 <video path="https://mega.nz/file/CMVhFbBA#Isf5Yk5fVO2lPl_loeE_6C5OJtsDpRaq54BAeJ1u2NU"/>
 
-<video path="https://www.dropbox.com/scl/fi/g5p98tguhiq94ou4rp0jd/Gramax-2024-07-29-14-41-30.mp4?rlkey=ig5lqyy9kkg2b6om583x4hj1j&st=przpthrx&dl=0"/>
+<video path="https://www.dropbox.com/scl/fi/g5p98tguhiq94ou4rp0jd/Gramax-2024-07-29-14-41-30.mp4?rlkey=ig5lqyy9kkg2b6om583x4hj1j&st=przpthrx&dl=0"/> -->
 
 BlockMd
 
