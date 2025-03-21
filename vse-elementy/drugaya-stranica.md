@@ -3,29 +3,29 @@ order: 1
 title: Другая страница
 ---
 
-[openapi:./_index-2.yaml:true]
+<openapi src="./_index-2.yaml" flag="true"/>
 
-[mermaid:./_index-3.mermaid:подпись к Merminaid]
+<mermaid path="./_index-3.mermaid" title="подпись к Merminaid"/>
 
-[tabs]
+<tabs>
 
-[tab:Заголовок_1::]
+<tab name="Заголовок_1">
 
 Тело\_1
 
-[/tab]
+</tab>
 
-[tab:Заголовок_2::]
+<tab name="Заголовок_2">
 
 Тело\_2asdasd
 
-[/tab]
+</tab>
 
-[/tabs]
+</tabs>
 
 
 
-[ts-diagram:./resources/ts-diagram.ts]
+<ts-diagram path="./resources/ts-diagram.ts"/>
 
 [ссылка](./_index#openapi)
 
@@ -35,10 +35,10 @@ title: Другая страница
 
 [ccskrf](./../_index/_index/new-article/_index-2)
 
-[image:./_index-2.png::Подпись к рисунку:15.4589,9.89583,84.5411,90.1042:annotation,56.8571,17.6241,,bottom-right,&square,61.8393,45.3637,34.2857,34.6821,аннотация,top-left]
+<image src="./_index-2.png" title="Подпись к рисунку" crop="15.4589,9.89583,84.5411,90.1042" objects="annotation,56.8571,17.6241,,bottom-right&square,61.8393,45.3637,34.2857,34.6821,аннотация,top-left"/>
 
 q
 
-[icon:bank-svgrepo-com:green][icon:address-svgrepo][icon:bank-svgrepo-com:blue]
+<icon code="bank-svgrepo-com" color="green"/><icon code="address-svgrepo"/><icon code="bank-svgrepo-com" color="blue"/>
 
-[icon:a-arrow-down:red]
+<icon code="a-arrow-down" color="red"/>

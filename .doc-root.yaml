@@ -1,9 +1,9 @@
 title: Wysiwyg
 code: AES
-description: null
 style: orange-red
 language: ru
 supportedLanguages:
   - ru
   - en
 properties: []
+syntax: xml

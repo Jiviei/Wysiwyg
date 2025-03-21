@@ -42,25 +42,25 @@ private: true
 
 #### Image
 
-[image:./_index.png::Подпись к рисунку:15.4589,9.89583,84.5411,90.1042::annotation,56.8571,17.6241,,bottom-right,&square,61.8393,45.3637,34.2857,34.6821,аннотация,top-left:]
+<image src="./_index.png" title="Подпись к рисунку" crop="15.4589,9.89583,84.5411,90.1042" objects="annotation,56.8571,17.6241,,bottom-right&square,61.8393,45.3637,34.2857,34.6821,аннотация,top-left"/>
 
 #### OpenApi
 
-[openapi:./_index.yaml:true]
+<openapi src="./_index.yaml" flag="true"/>
 
 #### Drawio
 
-[drawio:./new-article.svg:подпись к drawio::]
+<drawio path="./new-article.svg" title="подпись к drawio"/>
 
 #### Mermaid
 
-[mermaid:./_index.mermaid:подпись к Merminaid]
+<mermaid path="./_index.mermaid" title="подпись к Merminaid"/>
 
-[mermaid:./_index-2.mermaid:подпись к другой Merminaid]
+<mermaid path="./_index-2.mermaid" title="подпись к другой Merminaid"/>
 
 #### PlantUML
 
-[plant-uml:./_index.puml:подпись к PlantUML]
+<plant-uml path="./_index.puml" title="подпись к PlantUML"/>
 
 ```plant-uml:подпись к PlantUML
 @startuml
@@ -73,21 +73,21 @@ private: true
 
 #### Snippet
 
-[snippet:snippet]
+<snippet id="snippet"/>
 
 #### Video
 
-[video:https://www.youtube.com/watch?v=c6B86zT-fpc&t=4434s:Подпись к видео]
+<video path="https://www.youtube.com/watch?v=c6B86zT-fpc&t=4434s" title="Подпись к видео"/>
 
-[video:https://youtu.be/c6B86zT-fpc:]
+<video path="https://youtu.be/c6B86zT-fpc"/>
 
-[video:https://rutube.ru/vieo/f01e5419c27dbc7de93185d021883be9/:]
+<video path="https://rutube.ru/vieo/f01e5419c27dbc7de93185d021883be9/"/>
 
-[video:https://drive.google.com/file/d/1RO9qIF_z1dQmJUKCgb-YaxdH5AaD3z9R/view?usp=drive_link:]
+<video path="https://drive.google.com/file/d/1RO9qIF_z1dQmJUKCgb-YaxdH5AaD3z9R/view?usp=drive_link"/>
 
-[video:https://mega.nz/file/CMVhFbBA#Isf5Yk5fVO2lPl_loeE_6C5OJtsDpRaq54BAeJ1u2NU:]
+<video path="https://mega.nz/file/CMVhFbBA#Isf5Yk5fVO2lPl_loeE_6C5OJtsDpRaq54BAeJ1u2NU"/>
 
-[video:https://www.dropbox.com/scl/fi/g5p98tguhiq94ou4rp0jd/Gramax-2024-07-29-14-41-30.mp4?rlkey=ig5lqyy9kkg2b6om583x4hj1j&st=przpthrx&dl=0:]
+<video path="https://www.dropbox.com/scl/fi/g5p98tguhiq94ou4rp0jd/Gramax-2024-07-29-14-41-30.mp4?rlkey=ig5lqyy9kkg2b6om583x4hj1j&st=przpthrx&dl=0"/>
 
 BlockMd
 
@@ -97,13 +97,9 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 
 **Color**
 
-[color:red]
-
 Цветной
 
 Блок
-
-[/color]
 
 #### BlockCode
 
@@ -129,65 +125,77 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 
 |
 
-{% table header="row" %}
+<table header="row">
+<colgroup><col/><col width="303"/><col width="200"/></colgroup>
+<tr>
+<td>
 
----
+Сложная
 
-*  Сложная
+</td>
+<td>
 
-*  {% colwidth=[303] %}
 
-   
 
-*  {% colwidth=[200] %}
+</td>
+<td>
 
-   заголовок
+заголовок
 
----
+</td>
+</tr>
+<tr>
+<td>
 
-*  markdown
+markdown
 
-*  {% colspan=2 rowspan=2 colwidth=[303,200] %}
+</td>
+<td colspan="2" rowspan="2">
 
-   тело
+тело
 
-   у таблицы
+у таблицы
 
----
+</td>
+</tr>
+<tr>
+<td>
 
-*  таблица
+таблица
 
-{% /table %}
+</td>
+</tr>
+</table>
 
 #### Note
 
-:::note:true Заголовок
+<note title="Заголовок" collapsed="true">
 
 Тело
 
-:::
+</note>
 
 #### Tabs
 
-[tabs]
+<tabs>
 
-[tab:Заголовок_1::]
+<tab name="Заголовок_1">
 
 Тело\_1
 
-[/tab]
+</tab>
 
-[tab:Заголовок_2::]
+<tab name="Заголовок_2">
 
 Тело\_2asdasd
 
-[/tab]
+</tab>
 
-[/tabs]
+</tabs>
 
 #### Include
 
-[include:./drugaya-stranica]
+<include path="./drugaya-stranica"/>
 
 ## Inline
 
@@ -215,13 +223,13 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 
 #### Comment
 
-[comment:QcgYI]Comment[/comment]
+<comment count="QcgYI">Comment</comment>
 
 ### NoContent
 
 #### Icon
 
-[icon:smile][icon:address-svgrepo-com]
+<icon code="smile"/><icon code="address-svgrepo-com"/>
 
 #### InlineCode
 
@@ -233,18 +241,18 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 
 $a$
 
-[alfa] [beta]
+<alfa/> <beta/>
 
-[cmd:Cmd:smile:yellow]
+<cmd text="Cmd" icon="smile" color="yellow"/>
 
-[color:blue]Color blue[/color]
+<color color="blue">Color blue</color>
 
-[issue:issue]
+<issue id="issue"/>
 
-[kbd:kbd]
+<kbd text="kbd"/>
 
-[who:who] [when:when]ф
+<who text="who"/> <when text="when"/>ф
 
 ### Fn
 
-[fn:ics.account:Иван Иванов]
+<fn code="ics.account" defaultValues="Иван Иванов"/>

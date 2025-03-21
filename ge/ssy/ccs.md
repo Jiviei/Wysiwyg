@@ -5,4 +5,4 @@ title: ссылка 1-1
 
 [asd](./-2)
 
-[icon:bank-svgrepo-com][icon:address-svgrepo][icon:address-svgrepo-com]
+<icon code="bank-svgrepo-com"/><icon code="address-svgrepo"/><icon code="address-svgrepo-com"/>
