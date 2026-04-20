@@ -5,5 +5,8 @@ language: ru
 supportedLanguages:
   - ru
   - en
-properties: []
-syntax: xml
+properties:
+  - name: test
+    type: Flag
+syntax: XML
+filterProperty: test
