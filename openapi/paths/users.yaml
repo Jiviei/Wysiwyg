@@ -1,12 +1,19 @@
-type: object
+get:
+    summary: Get users
 
-properties:
-    id:
-        type: integer
+    responses:
+        "200":
+            description: Success
+            content:
+                application/json:
+                    schema:
+                        type: array
+                        items:
+                            $ref: "../schemas/User.yaml"
 
-    name:
-        type: string
-
-required:
-    - id
-    - name
+        "500":
+            description: Error
+            content:
+                application/json:
+                    schema:
+                        $ref: "../schemas/Error.yaml"
