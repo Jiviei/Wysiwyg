@@ -11,6 +11,6 @@ paths:
 components:
     schemas:
         User:
-            $ref: "./schemas/User.yaml"
+            $ref: "./schemas/user.yaml"
         Error:
-            $ref: "./schemas/Error.yaml"
+            $ref: "./schemas/error.yaml"
