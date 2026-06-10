@@ -3,7 +3,8 @@ order: 1
 title: Все элементы
 private: true
 properties:
-  - name: test
+  - id: test
+collapsed: true
 ---
 
 ## Block
